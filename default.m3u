@@ -1,0 +1,543 @@
+#EXTM3U
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Agrosat
+rtmp://$OPT:rtmp-raw=rtmp://srvvenus.canaldoboi.com/liveac/livestream?adbe-live-event=liveevent playpath=livestream?adbe-live-event=liveevent swfUrl=http://srvvenus.canaldoboi.com:8080/playern/player.swf live=1  pageUrl=http://srvvenus.canaldoboi.com
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Band
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tvimagem playpath=tvimagem swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",CNT - Curitiba
+rtmp://$OPT:rtmp-raw=rtmp://67.213.216.200/cnt/cnt.sdp app=cnt pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cnt.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cnt&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cnt.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cnt&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://67.213.216.200/cnt playPath=cnt.sdp
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",CNT - Salvador
+rtmp://$OPT:rtmp-raw=rtmp://67.213.216.200/cntba/cntba.sdp app=cntba pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cntba.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cntba&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cntba.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cntba&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://67.213.216.200/cntba playPath=cntba.sdp
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Conexão BR
+rtmp://$OPT:rtmp-raw=rtmp://srvvenus.canaldoboi.com/livecx playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1 pageUrl=http://live.sba1.com:8080/playern/?canal=livecx&largura=588&altura=464
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Cristo Vive
+rtmp://$OPT:rtmp-raw=rtmp://75.126.54.164/live_apostolo_476/ playpath=tvcristovive3 swfUrl=http://webcast.overseebrasil.com.br/player_swf/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://webcast.overseebrasil.com.br/player.php?p=tvcristovive3&l=400&a=300&i=true
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Cultura
+rtmp://$OPT:rtmp-raw=rtmp://200.136.27.12/live playpath=tv swfUrl=http://cmais.com.br/portal/js/mediaplayer/player.swf live=1 pageUrl=http://cmais.com.br/aovivo
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Esporte Interativo
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/26 playpath=26 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Esporte Interativo Nordeste
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/einor playpath=einor swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Futura
+http://177.43.50.221:8080
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Globo RJ
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/rio playpath=rio swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",IURD TV
+rtmp://$OPT:rtmp-raw=rtmp://cp116309.live.edgefcs.net/live/ playpath=RodrigoLive@46406 swfUrl=http://www.universal.org/tv/swf/flowplayer-3.2.5.swf live=1 pageUrl=http://www.universal.org/tv/ conn=S:OK --live
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Mega TV
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.cdn.upx.net.br/00135_4/myStream.sdp app=00135_4 pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00135_4&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00135_4&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://rtmp.cdn.upx.net.br/001
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Mix TV
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.cdn.upx.net.br:80/11ac playpath=myStream.sdp swfUrl=http://files.cdn.upx.net.br/sandbox/static/library/flowplayer/flowplayer.unlimited-3.2.5.swf?0.03652500035241246 live=1 pageUrl=http://mixtv.com.br/externaldata/streaming/
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",RBS TV
+rtmp://$OPT:rtmp-raw=rtmp://137690976.r.cdnstreaming.net/live-137690976 playpath=rbtv.sdp swfUrl=http://www.tvtuga.com/live47/player.swf live=1 pageUrl=http://www.tvtuga.com/rede-brasil/
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Record
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master14 playpath=master14 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Record News
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/24 playpath=24 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rede Família
+rtsp://srv3.ntelecom.com.br/redefamilia
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rede Gospel
+rtmp://$OPT:rtmp-raw=rtmp://media.igospel.com.br:1935/live playpath=redegospel swfUrl=http://www.redegospel.tv.br/site/library/swf/player.swf live=1 pageUrl=http://www.redegospel.tv.br/site/
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rede Minas
+mms://tv-coder.unifenas.br/aovivo
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rede Mundo Maior Espírita
+rtmp://$OPT:rtmp-raw=rtmp://flash.asaweb.com.br/8306/ playpath=8306 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://feal.com.br/player_tvmm.html
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rede Vida
+mms://wmedia.telium.com.br/redevida
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",RedeTV HD
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master300 playpath=master300 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rit TV
+rtmp://67.228.212.5/ponto79/ongrace
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",SBT
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/21 playpath=21 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Aparecida
+rtmp://$OPT:rtmp-raw=rtmp://caikrondatacenter.com.br:1935/tvaparecida playpath=tvaparecida.stream swfUrl=http://caikronaudiencia.com.br/player/player_aparecida2.swf?Stream=tvaparecida.stream&server=rtmp://caikrondatacenter.com.br:1935/tvaparecida&largura=620&altura=348&buffer=2&nometv=&mensagem=&usuario= live=1 pageUrl=http://caikronaudiencia.com.br/player/aparecida2.php?server=rtmp://caikrondatacenter.com.br:1935/tvaparecida&stream=tvaparecida.stream&buffer=2&altura=348&largura=620
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Brasil
+rtmp://$OPT:rtmp-raw=rtmp://200.252.42.145:1935/livepkgr?adbe-live-event=tvbrinternacional playpath=tvbrinternacional?adbe-live-event=tvbrinternacional swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tvbrasil.ebc.com.br/internacional/
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Capital - Goiás
+rtmp://$OPT:rtmp-raw=rtmp://fms.softhost.com.br/tcp/ playpath=victor3 swfUrl=http://www.tvcapitalgoiania.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.tvcapitalgoiania.com/
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Cidade Joinville
+mms://65.182.104.113/tvcidade
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Cidade Verde - Piauí
+rtmp://$OPT:rtmp-raw=rtmp://67.228.212.5/ponto61/ playpath=cidadeverde swfUrl=http://www.crosshost.com.br/mtv/FLVplayer.swf live=1 pageUrl=http://www.crosshost.com.br/cidadeverde/
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Com - Porto Alegre
+rtmp://$OPT:rtmp-raw=rtmp://32747t.lp.azioncdn.net:80/2747t playpath=2747t/a/mp4:access_options/rtmp-live/tvcom.sdp swfUrl=http://videos.clicrbs.com.br/rs/tvcom/swf/ACTPlayer.swf live=1 pageUrl=http://videos.clicrbs.com.br/rs/tvcom/videonews/1443/
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Com Florianópolis - SC
+rtmp://$OPT:rtmp-raw=rtmp://322747t.lp.azioncdn.net:1935/2747t playpath=mp4:access_options/rtmp-live/tvcom-sc.sdp swfUrl=http://videos.clicrbs.com.br/sc/tvcom/swf/ACTPlayer.swf live=1 pageUrl=http://videos.clicrbs.com.br/sc/tvcom/videonews/15681/
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Jangadeiro - Band Fortaleza
+rtmp://$OPT:rtmp-raw=rtmp://201.12.119.29/livepkgr/ playpath=tvjangadeiro3 swfUrl=http://www.tribunadoceara.com.br/tv-jangadeiro/wp-content/themes/2013_jangadeiro_tv/js/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.tribunadoceara.com.br/tv-jangadeiro/ao-vivo/
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Meio Norte
+rtmp://$OPT:rtmp-raw=rtmp://cdn1.amsolution.net.br:1935/mntv playpath=mntv swfUrl=http://www.meionorte.com/images/player.swf live=1 pageUrl=http://www.meionorte.com/redemeionorte/
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Mundial
+rtmp://$OPT:rtmp-raw=rtmp://174.122.253.242/impd/ playpath=impd swfUrl=http://assets.gospelprime.com.br/tv/player.swf live=1 pageUrl=http://tv.gospelprime.com.br/assitir-tv-mundial-ao-vivo-igreja-mundial-do-poder-de-deus-ao-vivo-on-line/
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Poços
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp app=00084 pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00084&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00084&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://rtmp.cdn.upx.net.br/00084 playP
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Século XXI
+http://257919-lh.akamaihd.net/TVSeculo21_hdlive_250@145740?bandwidthEstimationTest=true&v=3.0.3&fp=WIN%2012,0,0,43&r=JTECX&g=KTAKFMMSIQWI
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Senado
+mms://drix.senado.gov.br/tv1
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Sul Educativa
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.cdn.upx.net.br/00046/myStream.sdp app=00046 pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00046&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00046&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://rtmp.cdn.upx.net.br/00046 playP
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TVE-RS - TVE do Rio Grande do Sul
+mms://200.189.113.200/TVE
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Via Morena Tv - Campo Grande - MS
+rtmp://$OPT:rtmp-raw=rtmp-raw=rtmp://nsp0813vimna35.nethorizontes.com.br/nsp0813vimna35 playpath=viamorena swfUrl=http://livetvstreaming.ucoz.com live=1 live=1
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Band
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tvimagemhd playpath=tvimagemhd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Cultura
+rtmp://$OPT:rtmp-raw=rtmp://200.136.27.12/live playpath=tv swfUrl=http://cmais.com.br/portal/js/mediaplayer/player.swf live=1 pageUrl=http://cmais.com.br/aovivo
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Esporte Interativo
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/26hd playpath=26hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Esporte Interativo Nordeste
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/einorhd playpath=einorhd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Globo RJ
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/rioalta playpath=rioalta swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Just TV
+rtmp://$OPT:rtmp-raw=rtmp://72.55.165.222:1935/live playpath=livestream.sdb swfUrl=http://www.justtv.com.br/portal/aovivo/swfs/StrobeMediaPlayback.swf live=1 pageUrl=http://www.justtv.com.br/portal/aovivo/new_player.php
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Record
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/18hd playpath=18hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Record News
+rtmp://a1.fabricahost.com.br:1935/redemercosul/redemercosul.flv
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",RedeTV HD
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=22hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",SBT
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/21hd playpath=21hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",AE
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/ae playpath=ae swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Animal Planet
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/30 playpath=30 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",AXN
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master52 playpath=master52 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Baby TV
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/131 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=131
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Band News
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/noticias playpath=noticias swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Band Sports
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/taroba playpath=taroba swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Bio HD
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hd playpath=hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Boomerang
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/79 app=master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR1
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Canal Brasil
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/88 playpath=88 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Cartoon Network
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/brlive_0028 playpath=brlive_0028 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Chef TV
+rtmp://$OPT:rtmp-raw=rtmp://flashd.localmidia.com.br/cheftv/aovivo playpath=aovivo swfUrl=http://cheftv.com.br/static/js/vendor/flowplayer/flowplayer.commercial-3.2.7.swf live=1  pageUrl=http://cheftv.com.br/programacao/aovivo/
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Cine Brasil TV
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/boninho app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=boninho
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Cinemax
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/53 playpath=53 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Combate
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/mma app=mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Comedy Central
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/96 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=96
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master04 playpath=master04 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery Civilization
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/discivil377 playpath=discivil377 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery HD Theater
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/discohd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=discohd
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery Kids
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master24 playpath=master24 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery Science
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/130 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=130
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery Turbo
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/92 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 playpath=92
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Disney Channel
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/disney playpath=disney swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Disney Junior
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/animax playpath=animax swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Disney XD
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/60 playpath=60 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",E!
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/bbb14 playpath=bbb14 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",ESPN
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/1 playpath=1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",ESPN Brasil
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/2 playpath=2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",ESPN+
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/espn+ playpath=espn+ swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fish TV
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/89 playpath=89 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/8 playpath=8 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox
+rtmp://$OPT:rtmp-raw=rtmpe://80.82.70.239:443/liveedge/ playpath=ch29-ktkCb47VLa swfUrl=http://livecast.cc/live/p.swf live=1 tcUrl=rtmpe://80.82.70.239:443/liveedge/ pageUrl=http://livecast.cc/live/stream14.php?ch=ch29-ktkCb47VLa&width=645&height=450
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox
+rtmp://$OPT:rtmp-raw=rtmpe://89.248.168.130:443/liveedge/ playpath=ch29-ktkCb47VLa swfUrl=http://livecast.cc/live/p.swf live=1 tcUrl=rtmpe://89.248.168.130:443/liveedge/ pageUrl=http://livecast.cc/live/stream14.php?ch=ch29-ktkCb47VLa&width=645&height=450
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox Life
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/foxlife playpath=foxlife swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox Sports
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/101_2 playpath=101_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox Sports 2
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/foxsports2 playpath=foxsports2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",FX
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master25 playpath=master25 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Glitz
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/81 playpath=81 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Globo News
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/aovivo_1 playpath=aovivo_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Globosat HD
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/sat playpath=sat swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Gloob
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/110 app=mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",GNT
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/132 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=132
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",HBO
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/20 playpath=20 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",HBO 2
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hbo2 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=hbo2
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",HBO Family
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hbofamily playpath=hbofamily swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",HBO Plus
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hboplus playpath=hboplus swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",HBO Signature
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/108 playpath=108 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",History
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/history playpath=history swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Home and Health
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/106 playpath=106 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",i SAT
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/isat app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=isat
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",ID
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/105 playpath=105 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Max HD
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/47 playpath=47 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Max Prime
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tvmsnmaxxprime playpath=tvmsnmaxxprime swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Megapix
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master11 playpath=master11 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",MGM
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/104 playpath=104 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",MTV
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hbohd playpath=hbohd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Multishow
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/brlive_0031 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=brlive_0031
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",NatGeo Wild HD
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/animal playpath=animal swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",National Geographic
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/natgeo playpath=natgeo swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Nick Jr.
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/nickjr playpath=nickjr swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Nickelodeon
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/28 playpath=28 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Nickelodeon HD
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/102 playpath=102 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Off
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/off_1 playpath=off_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",PFC
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/futebol app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=futebol
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Sony
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/sony playpath=sony swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Sony Spin
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=sonyspin swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/sonyspin.html
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Sony Spin
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/sonyspin playpath=sonyspin swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Space
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=51 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",SPORTS+
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/sportsmais playpath=sportsmais swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",SporTV
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/paloma_3 playpath=paloma_3 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",SporTV2
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/jean_1 playpath=jean_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",SporTV3
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/reserva playpath=reserva swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Studio Universal
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/studio.html
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Studio Universal
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/studio playpath=studio swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Syfy
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/103 playpath=103 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",TBS HD
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tbs playpath=tbs swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",TCM
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tcm playpath=tcm swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Action
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/37 playpath=37 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Cult
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tccult playpath=tccult swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Fun
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/44 playpath=44 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Pipoca
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master18 playpath=master18 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Premium
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/70 playpath=70 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Touch
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/36 playpath=36 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",TLC
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/113 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=113
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",TNT
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master77_1 playpath=master77_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Tooncast
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/85 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=85
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",truTv
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/112_1 playpath=112_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Universal Channel
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master20 playpath=master20 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Viva
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master21 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=master21
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Warner Channel
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master22 playpath=master22 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Zoomoo
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/zoomi playpath=zoomi swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Animal Planet
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=30hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Band News
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/noticias playpath=noticias swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Band Sports
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tarobasd playpath=tarobasd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Cine Brasil TV
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/boninhohd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=boninhohd
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Cinemax
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/53hd playpath=53hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Combate
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/mmahd app=mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOT
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Discovery
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/14hd playpath=14hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Discovery HD Theater
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hishd_1 playpath=hishd_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Discovery Kids
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/kidhd playpath=kidhd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Discovery Science
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/130hd playpath=130hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Discovery Turbo
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/92hd playpath=92hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Disney Junior
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=67hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Disney XD
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/60hd playpath=60hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",E!
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/bbb14hd playpath=bbb14hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",ESPN
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/1hd playpath=1hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",ESPN Brasil
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/2hd playpath=2hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",ESPN+ HD
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/espn+hd playpath=espn+hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Fox
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/8hd playpath=8hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Fox Life
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/foxlifehd playpath=foxlifehd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Fox Sports
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/101_1 playpath=101_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Fox Sports 2
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/foxsports2hd playpath=foxsports2hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Globo News HD
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/aovivo_2 playpath=aovivo_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Globosat HD
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/sathd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=sathd
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Gloob HD
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/110hd app=mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOT
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",HBO
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/20hd playpath=20hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",HBO 2
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/40hd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=40hd
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",History
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/12hd playpath=12hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",i SAT
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/isathd playpath=isathd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Max HD
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/maxsuperhd app=master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Max Prime
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/59hd playpath=59hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Megapix
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master11 playpath=master11 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",MTV
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/87hd playpath=87hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",NatGeo Wild HD
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/82hd playpath=82hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",National Geographic
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/natgeohd playpath=natgeohd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Nickelodeon
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/28hd playpath=28hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Nickelodeon HD
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/102hd playpath=102hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Off
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/off_2 playpath=off_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",PFC HD
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/futebolgrande app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=futebolgrande
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Space
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=51hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",SPORTS+
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/111hd playpath=111hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",SporTV HD
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/paloma_2 playpath=paloma_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",SporTV2
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/jean_2 playpath=jean_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",SporTV3
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/reservamaxx playpath=reservamaxx swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",TBS HD
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tbshd playpath=tbshd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",TCM
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=91hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Telecine Action HD
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/37hd playpath=37hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Telecine Cult HD
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/66hd playpath=66hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Telecine Pipoca HD
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/11hd playpath=11hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Telecine Premium HD
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/70hd playpath=70hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",TLC
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/113hd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=113hd
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",TNT
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master77_2 playpath=master77_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",truTv
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/112_2 playpath=112_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Universal Channel
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/universalhd playpath=universalhd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Viva
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/52hd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=52hd
+#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Zoomoo
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/zoomi playpath=zoomi swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",60s Rock
+http://listen.rockradio.com/public3/60srock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",80s Alternative
+http://listen.rockradio.com/public3/alternative80s.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",80s Rock
+http://listen.rockradio.com/public3/80srock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",89 Radio Rock
+http://50-7-66-170.webnow.net.br:80/radiorock.aac
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",90s Alternative
+http://listen.rockradio.com/public3/alternative90s.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",90s Rock
+http://listen.rockradio.com/public3/90srock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Beatles Tribute
+http://listen.rockradio.com/public3/beatlestribute.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Black Metal
+http://listen.rockradio.com/public3/blackmetal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Blues Rock
+http://listen.rockradio.com/public3/bluesrock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Bossa Jazz Brasil
+http://streaming17.brlogic.com:8238/live
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Brasil Radio
+http://listen.radionomy.com/75brasilradio.m3u
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Brasil Sertanejo
+http://listen.radionomy.com/brasil-sertanejo.m3u
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Cafe 80´s
+http://streaming202.radionomy.com:80/cafe80s
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Classic Hard Rock
+http://listen.rockradio.com/public3/classichardrock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Classic Metal
+http://listen.rockradio.com/public3/classicmetal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Classic Rock
+http://listen.rockradio.com/public3/classicrock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Classic Rock
+http://streaming208.radionomy.com:80/ROCK-Classic
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Dance - Anos 90
+http://streaming202.radionomy.com:80/Dance90
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Death Metal
+http://listen.rockradio.com/public3/deathmetal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Deathcore
+http://listen.rockradio.com/public3/deathcore.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Festa
+http://141.0.169.245:80/partyfm-high
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Grunge
+http://listen.rockradio.com/public3/grunge.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Hair Bands
+http://listen.rockradio.com/public3/hairbands.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Hard Core
+http://listen.rockradio.com/public3/hardcore.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Hard Rock
+http://listen.rockradio.com/public3/hardrock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Harder Rock
+http://listen.rockradio.com/public3/harderrock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Heavy Metal
+http://listen.rockradio.com/public3/heavymetal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Hot Hits
+http://streaming207.radionomy.com:80/HIT-S-MY-MUSIC
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Indie Rock
+http://listen.rockradio.com/public3/indierock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Industrial
+http://listen.rockradio.com/public3/industrial.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Jam Bands
+http://listen.rockradio.com/public3/jambands.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Melodic Death Metal
+http://listen.rockradio.com/public3/melodicdeathmetal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Metal
+http://listen.rockradio.com/public3/metal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Metalcore
+http://listen.rockradio.com/public3/metalcore.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Modern Rock
+http://listen.rockradio.com/public3/modernrock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Never Stop Dancing
+http://streaming205.radionomy.com:80/Electronic-Global-Radio
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Nu Metal
+http://listen.rockradio.com/public3/numetal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Pop Punk
+http://listen.rockradio.com/public3/poppunk.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Pop Rock
+http://listen.rockradio.com/public3/poprock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Pop Rock - Hits
+http://ice.abradio.cz:80/hitpoprock64.aac
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Power Metal
+http://listen.rockradio.com/public3/powermetal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Power Metal
+http://streaming208.radionomy.com/PowerMetalcl
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Progressive Metal
+http://listen.rockradio.com/public3/progressivemetal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Progressive Rock
+http://listen.rockradio.com/public3/progressiverock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Punk Rock
+http://listen.rockradio.com/public3/punkrock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Rap Metal
+http://listen.rockradio.com/public3/rapmetal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Reggae 24 Horas
+http://67.159.12.5:80/tuner24_reggae_hi
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Rock Ballads
+http://listen.rockradio.com/public3/rockballads.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Rock Clássico
+http://play.uturnradio.com:80/classic_rock_64
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Rock´n Roll - Anos 80 e 90
+http://zzz.ee:8008/NetRock101
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Screamo-Emo
+http://listen.rockradio.com/public3/screamoemo.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Ska
+http://listen.rockradio.com/public3/ska.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Soft Rock
+http://listen.rockradio.com/public3/softrock.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Symphonic Metal
+http://listen.rockradio.com/public3/symphonicmetal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",The Best of 80´s
+http://streaming202.radionomy.com:80/Best80
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Thrash Metal
+http://listen.rockradio.com/public3/thrashmetal.pls
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Alternative
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginRockAlternative playpath=VirginRockAlternative swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Bau
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/RadioBAU playpath=RadioBAU swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Classic
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginRockClassic playpath=VirginRockClassic swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Hard Rock
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginHardRock playpath=VirginHardRock swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Music Star
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/LITFIBA playpath=LITFIBA swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Rock 70
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VIRGINROCK70 playpath=VIRGINROCK70 swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Rock 80
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VIRGINROCK80 playpath=VIRGINROCK80 swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",98 FM Curitiba - É Tudo de Bom!
+http://174-123-32-173.webnow.net.br:80/98fm.mp3
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",ABC Lounge
+http://listen.radionomy.com/abc-lounge.m3u
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Antena 1 FM 94,7
+http://s9.mediastreaming.it:7050
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Band News FM
+rtmp://evp.mm.uol.com.br/bnewsfm_sp/_definst_/bnewsfm_sp
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Jovem Pan FM 100,9
+http://rtmp.35c4.cdn.upx.net.br:1935/35c4/myStream.sdp/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Jovem Pan SP
+mms://200.147.1.208/jovempan_cameras
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Kiss FM
+http://8333.live.streamtheworld.com/SAOPAULO1021AAC
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Kiss FM 102,1
+http://9303.live.streamtheworld.com:3690/SAOPAULO1021_SC
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Radio - I Love Dance FM
+http://80.237.157.64:80/iloveradio2.mp3
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Radio Capital SP
+http://173.192.47.126:80/capital
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Radio Metal
+http://streaming207.radionomy.com:80/MetalHeart
+#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Radio Mozart
+http://listen.radionomy.com/radio-mozart.m3u
