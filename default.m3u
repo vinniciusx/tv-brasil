@@ -27,8 +27,6 @@ rtmp://$OPT:rtmp-raw=rtmp://cp116309.live.edgefcs.net/live/ playpath=RodrigoLive
 rtmp://$OPT:rtmp-raw=rtmp://rtmp.cdn.upx.net.br/00135_4/myStream.sdp app=00135_4 pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00135_4&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00135_4&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://rtmp.cdn.upx.net.br/001
 #EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Mix TV
 rtmp://$OPT:rtmp-raw=rtmp://rtmp.cdn.upx.net.br:80/11ac playpath=myStream.sdp swfUrl=http://files.cdn.upx.net.br/sandbox/static/library/flowplayer/flowplayer.unlimited-3.2.5.swf?0.03652500035241246 live=1 pageUrl=http://mixtv.com.br/externaldata/streaming/
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",RBS TV
-rtmp://$OPT:rtmp-raw=rtmp://137690976.r.cdnstreaming.net/live-137690976 playpath=rbtv.sdp swfUrl=http://www.tvtuga.com/live47/player.swf live=1 pageUrl=http://www.tvtuga.com/rede-brasil/
 #EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Record
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master14 playpath=master14 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
 #EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Record News
