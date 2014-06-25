@@ -1,541 +1,1055 @@
 #EXTM3U
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Agrosat
+#EXTINF:-1 group-title="Internacional",EuroSport 2 HD
+http://149.255.39.122/aasd/8815/index.m3u8
+#EXTINF:-1 group-title="Internacional",Sport TV LIVE
+rtmp://$OPT:rtmp-raw=rtmp://r.livecast.cc/rs/ playpath=live4-w04by swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live4-w04by
+#EXTINF:-1 group-title="Internacional",Sport TV 3
+rtmp://$OPT:rtmp-raw=rtmp://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
+#EXTINF:-1 group-title="Internacional",Sport TV 2
+rtmp://$OPT:rtmp-raw=rtmp://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",ABC Sports
+rtmp://$OPT:rtmp-raw=rtmp://178.18.23.129/live playpath=abc98 swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=abc98&vw=600&vh=430 --live
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Al Jazeera - Arabic
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",peg",Antena 3
+rtmp://$OPT:rtmp-raw=rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ playpath=stream-antena3_1 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.omegateam.byethost7.com/ch/i-antena-3.php --live
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Arabica Music
+rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.com:1935/teledunet playpath=arabica_music swfUrl=http://www.teledunet.com/player.swf?id0=82825338649600&skin=bekle/bekle.xml&channel=arabica_music live=1 pageUrl=http://www.teledunet.com/tv_/?channel=arabica_music&no_pub
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Arryadia Sport Arabic
+rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.com:1935/teledunet playpath=alriadia_sport swfUrl=http://www.teledunet.com/player.swf?id0=82825315032100&skin=bekle/bekle.xml&channel=alriadia_sport live=1 pageUrl=http://www.teledunet.com/tv_/?channel=alriadia_sport&no_pub
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Automotive TV
+rtsp://46.249.213.87/broadcast/automotivetv-tablet.3gp
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",AXN
+rtmp://$OPT:rtmp-raw=rtmp://50.7.189.66/iguide playpath=3zm6ql4d0xotejz swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php?width=650&height=400&channel=14298&autoplay=true   token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Baby TV
+http://fw01.livem3u8.me.totiptv.com/live//7773f3cef0334a28ad248552ea63d9e7.m3u8?bitrate=800
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",BBC Arabic
+rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.com:1935/teledunet playpath=bbc_arabic swfUrl=http://www.teledunet.com/player.swf?id0=82803243052300&skin=bekle/bekle.xml&channel=bbc_arabic live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bbc_arabic&no_pub
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Canal Plus HD
+rtmp://$OPT:rtmp-raw=rtmp://50.7.133.98:1935/iguide playpath=vqa3ugo16pw61r4 swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Canal+ Fútbol
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.38/liveedge/ playpath=ch16-i7mmbekj30j swfUrl=http://championsuefa.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://championsuefa.tv/ch.php?id=ch16-i7mmbekj30j&width=100%&height=95%
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Capital TV
+rtmp://cdn-SOV-2.musicradio.com:80/LiveVideo/Capital
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",CCTV Arabic
+rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.com:1935/teledunet playpath=cctv_arabic swfUrl=http://www.teledunet.com/player.swf?id0=82825274638400&skin=bekle/bekle.xml&channel=cctv_arabic live=1 pageUrl=http://www.teledunet.com/tv_/?channel=cctv_arabic&no_pub
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Chelsea TV
+rtmp://$OPT:rtmp-raw=rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://liveonlinetv247.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://liveonlinetv247.com/embed/chelseatv.php
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",EuroSport 2 HD Inglês
+rtsp://93.120.27.78:1935/live/euro2n
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",EuroSport 2 Inglês
+http://109.254.64.189:7781/udp/238.1.1.160:1234
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",EuroSport Espanhol
+http://82.144.222.10:1234/udp/233.252.8.126:2345
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Eurosport HD
+http://149.255.39.122/aasd/8814/index.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",EuroSport Inglês
+http://109.254.64.189:7781/udp/238.1.1.159:1234
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Extreme Sports
+http://auth.torrent-tv.ru/h/8/1/2/amdPTTVWZTQxbEpyQk9oOFFuNGRsbkNuUHFTa294dXZoMytEK3RQVDBvWm1hV3QzdTlnR2RHUUprSUJwSjY5cA/2
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",FOX SPORT Internacioal
+rtmp://fmaster.servep2p.com:1935/live/sport1.stream
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",FOX SPORT PLUS
+rtmp://fmaster.servep2p.com:1935/live/sport3.stream
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Fox Sports 1HD
+rtmp://$OPT:rtmp-raw=rtmp://141.255.160.194:1935/stream/ playpath=Nuyer8g41retyg.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=v4m476m5z5e4b4v274w574z5s4m5t2y28424z2w2m2w223944484w224&adx=&stream=j554d464l564z2x284j584h57434w2n2x416v494i433f4a47406d4x5w4b42423x2p2w294o2242303z3r264642405p4s4n5w5y2m5v244q474z556m2d454o2t2563434t2y343y2k5841344x2n57434135374r2f494j5a41374942464k57444z2w2g5b48403l2s2t2343434t2y3s2&sooor=MTA=&str=is&idom=firstrownow.eu
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",France24 Arabic
+rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.com:1935/teledunet playpath=france24_arabic swfUrl=http://www.teledunet.com/player.swf?id0=82825299088700&skin=bekle/bekle.xml&channel=france24_arabic live=1 pageUrl=http://www.teledunet.com/tv_/?channel=france24_arabic&no_pub
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",GS TV
+rtmp://cdn21.motiwe.com/live/gstv370
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",NBA TV
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream playpath=K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=1  pageUrl=http://04stream.com/trackok.php
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",NBA TV HD
+http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",NHL Network
+http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_640.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",NHL Network HD
+http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Rai Sport
+rtsp://streaming.rai.it/Newsvod/x/vod/sport/ultimi/20080607124947mpo40jfnotiziario_sportivo_-rainet.wmv
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Rock Television
+mmsh://mediatv2.topix.it/24rocktelevision66
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Rock Television - Hard & Heavy
+mmsh://mediatv2.topix.it/24hard66
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Rock Television - Live
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Rock Television 80´s
+mmsh://mediatv2.topix.it/248066
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Rock Television 90´s
+mmsh://mediatv2.topix.it/249066
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",RT News
+rtmp://$OPT:rtmp-raw=rtmp://fms5.visionip.tv/live/RT_3 playpath=RT_3 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.zuuk.net/el.php?ch=benficatv&width=880&height=460
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Sevilla FC Televisión
+rtmp://flash0.80137-live0.dna.qbrick.com:80/80137-live0/sevillafc
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Sky TG24
+rtmp://$OPT:rtmp-raw=rtmp://cp49989.live.edgefcs.net/live/ playpath=streamRM1@2564 pageUrl=http://video.sky.it/news/diretta swfUrl=http://videoplatform.sky.it/player/swf/player_live.swf live=1
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Sport TV 1
+rtmp://$OPT:rtmp-raw=rtmp://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Virgin Radio TV
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfUrl=http://video.virginradioitaly.it/com/universalmind/swf/video_player_102.swf?xmlPath=/com/universalmind/tv/virgin/videoXML.xml&advXML=/com/universalmind/adsWizzConfig/14.xml live=1  pageUrl=http://video.virginradioitaly.it/tv/channel/show/id/14
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",WWE Pro Wrestling TV
+rtmp://80.93.53.88:1935/live/wrestling.stream
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Agrosat
 rtmp://$OPT:rtmp-raw=rtmp://srvvenus.canaldoboi.com/liveac/livestream?adbe-live-event=liveevent playpath=livestream?adbe-live-event=liveevent swfUrl=http://srvvenus.canaldoboi.com:8080/playern/player.swf live=1  pageUrl=http://srvvenus.canaldoboi.com
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Band
-rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tvimagem playpath=tvimagem swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",CNT - Curitiba
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Aperipê TV - Aracajú
+rtmp://$OPT:rtmp-raw=rtmp://fms03.ideastek.com.br/tvaperipe playpath=tvaperipe swfUrl=http://wwitv.com/player/player15.swf live=1
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Arena Corinthians - Odebrecht
+http://www.arenatimao.com/ao_vivo/video_manha.flv
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Band
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tvimagem playpath=tvimagem swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Band HD
+http://50.7.77.20:1935/record/CH106_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",BH News
+rtmp://$OPT:rtmp-raw=rtmp://23.20.138.48/3125 playpath=3125-hotmedia.sdp swfUrl=http://www.z1on.com/flashjw/playerjw.swf live=1 pageUrl=http://www.z1on.com/flashjw/3125/?src=iframe&embed=1&controlbar=1
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Canal 21 - GTV Cascavel
+rtmp://$OPT:rtmp-raw=rtmp://wowza.catve.com.br/live2/livestream playpath=livestream swfUrl=http://catve.tv/swf/streaming.swf live=1  pageUrl=http://catve.tv/21-ao-vivo
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",CATVE
+rtmp://$OPT:rtmp-raw=rtmp://stream.catve.com.br/live/livestream playpath=livestream swfUrl=http://catve.tv/swf/streaming.swf live=1  pageUrl=http://catve.tv/ao-vivo
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",CNT - Curitiba
 rtmp://$OPT:rtmp-raw=rtmp://67.213.216.200/cnt/cnt.sdp app=cnt pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cnt.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cnt&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cnt.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cnt&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://67.213.216.200/cnt playPath=cnt.sdp
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",CNT - Salvador
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",CNT - Salvador
 rtmp://$OPT:rtmp-raw=rtmp://67.213.216.200/cntba/cntba.sdp app=cntba pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cntba.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cntba&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cntba.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cntba&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://67.213.216.200/cntba playPath=cntba.sdp
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Conexão BR
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Conexão BR
 rtmp://$OPT:rtmp-raw=rtmp://srvvenus.canaldoboi.com/livecx playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1 pageUrl=http://live.sba1.com:8080/playern/?canal=livecx&largura=588&altura=464
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Cristo Vive
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Cristo Vive
 rtmp://$OPT:rtmp-raw=rtmp://75.126.54.164/live_apostolo_476/ playpath=tvcristovive3 swfUrl=http://webcast.overseebrasil.com.br/player_swf/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://webcast.overseebrasil.com.br/player.php?p=tvcristovive3&l=400&a=300&i=true
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Cultura
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Cultura
 rtmp://$OPT:rtmp-raw=rtmp://200.136.27.12/live playpath=tv swfUrl=http://cmais.com.br/portal/js/mediaplayer/player.swf live=1 pageUrl=http://cmais.com.br/aovivo
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Esporte Interativo
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Esporte Interativo
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/26 playpath=26 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Esporte Interativo Nordeste
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Esporte Interativo Nordeste
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/einor playpath=einor swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Futura
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Futura
 http://177.43.50.221:8080
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Globo RJ
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Gazeta
+rtmp://$OPT:rtmp-raw=rtmp://50.7.77.18/record/iago7972 playpath=CH105_Small swfUrl=http://www.mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://www.mybrasiltv.com/ptplayer/flowplayer/Home.php conn=S:OK swfVfy=true live=true timeout=10
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Globo RJ
 rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/rio playpath=rio swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",IURD TV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Globo SP
+http://50.7.77.20:1935/record/CH102_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",IURD TV
 rtmp://$OPT:rtmp-raw=rtmp://cp116309.live.edgefcs.net/live/ playpath=RodrigoLive@46406 swfUrl=http://www.universal.org/tv/swf/flowplayer-3.2.5.swf live=1 pageUrl=http://www.universal.org/tv/ conn=S:OK --live
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Mega TV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Mega TV
 rtmp://$OPT:rtmp-raw=rtmp://rtmp.cdn.upx.net.br/00135_4/myStream.sdp app=00135_4 pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00135_4&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00135_4&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://rtmp.cdn.upx.net.br/001
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Mix TV
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.cdn.upx.net.br:80/11ac playpath=myStream.sdp swfUrl=http://files.cdn.upx.net.br/sandbox/static/library/flowplayer/flowplayer.unlimited-3.2.5.swf?0.03652500035241246 live=1 pageUrl=http://mixtv.com.br/externaldata/streaming/
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Record
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Mix TV
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/mixtv playpath=mixtv swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",RBS TV
+rtmp://$OPT:rtmp-raw=rtmp://137690976.r.cdnstreaming.net/live-137690976 playpath=rbtv.sdp swfUrl=http://www.tvtuga.com/live47/player.swf live=1 pageUrl=http://www.tvtuga.com/rede-brasil/
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Record
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master14 playpath=master14 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Record News
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Record News
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/24 playpath=24 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rede Família
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Brasil - Brasília
+rtmp://137690976.r.cdnstreaming.net/live-137690976/rbtv.sdp
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Família
 rtsp://srv3.ntelecom.com.br/redefamilia
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rede Gospel
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Gospel
 rtmp://$OPT:rtmp-raw=rtmp://media.igospel.com.br:1935/live playpath=redegospel swfUrl=http://www.redegospel.tv.br/site/library/swf/player.swf live=1 pageUrl=http://www.redegospel.tv.br/site/
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rede Minas
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Minas
 mms://tv-coder.unifenas.br/aovivo
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rede Mundo Maior Espírita
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Mundo Maior Espírita
 rtmp://$OPT:rtmp-raw=rtmp://flash.asaweb.com.br/8306/ playpath=8306 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://feal.com.br/player_tvmm.html
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rede Vida
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Vida
 mms://wmedia.telium.com.br/redevida
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",RedeTV HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",RedeTV HD
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master300 playpath=master300 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Rit TV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",RedeTV HD
+http://50.7.77.20:1935/record/CH103_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",RedeTV João Pessoa - TV Arapuan
+rtmp://$OPT:rtmp-raw=rtmp://mediacp.ciclanohost.com.br:1935/8064 playpath=8064 swfUrl=http://flashplayer.estadovirtual.com.br/assets/player.swf live=1 pageUrl=http://www.tvarapuan.com.br/
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rit TV
 rtmp://67.228.212.5/ponto79/ongrace
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",SBT
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",SBT
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/21 playpath=21 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Aparecida
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",SBT Salvador - TV Aratu
+rtmp://$OPT:rtmp-raw=rtmp://orgbalance.navegarteidc.net/tvaratu playpath=tvaratu.sdp swfUrl=http://www.aratuonline.net/player/player.swf live=1 pageUrl=http://www.aratuonline.net/
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Alese - Sergipe
+mms://midia.infonet.com.br/tvalese
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Alfenas
+mms://tv-coder.unifenas.br/aovivo
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Antares - Arapongas PR
+rtmp://$OPT:rtmp-raw=rtmp://srv3.zoeweb.tv/z99-live playpath=stream swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.15.swf live=1 pageUrl=http://www.tvantares.com.br/player.html
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Aparecida
 rtmp://$OPT:rtmp-raw=rtmp://caikrondatacenter.com.br:1935/tvaparecida playpath=tvaparecida.stream swfUrl=http://caikronaudiencia.com.br/player/player_aparecida2.swf?Stream=tvaparecida.stream&server=rtmp://caikrondatacenter.com.br:1935/tvaparecida&largura=620&altura=348&buffer=2&nometv=&mensagem=&usuario= live=1 pageUrl=http://caikronaudiencia.com.br/player/aparecida2.php?server=rtmp://caikrondatacenter.com.br:1935/tvaparecida&stream=tvaparecida.stream&buffer=2&altura=348&largura=620
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Brasil
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Brasil
 rtmp://$OPT:rtmp-raw=rtmp://200.252.42.145:1935/livepkgr?adbe-live-event=tvbrinternacional playpath=tvbrinternacional?adbe-live-event=tvbrinternacional swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tvbrasil.ebc.com.br/internacional/
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Capital - Goiás
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Capital - Goiás
 rtmp://$OPT:rtmp-raw=rtmp://fms.softhost.com.br/tcp/ playpath=victor3 swfUrl=http://www.tvcapitalgoiania.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.tvcapitalgoiania.com/
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Cidade Joinville
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Cidade Joinville
 mms://65.182.104.113/tvcidade
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Cidade Verde - Piauí
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Cidade Verde - Piauí
 rtmp://$OPT:rtmp-raw=rtmp://67.228.212.5/ponto61/ playpath=cidadeverde swfUrl=http://www.crosshost.com.br/mtv/FLVplayer.swf live=1 pageUrl=http://www.crosshost.com.br/cidadeverde/
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Com - Porto Alegre
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Com - Porto Alegre
 rtmp://$OPT:rtmp-raw=rtmp://32747t.lp.azioncdn.net:80/2747t playpath=2747t/a/mp4:access_options/rtmp-live/tvcom.sdp swfUrl=http://videos.clicrbs.com.br/rs/tvcom/swf/ACTPlayer.swf live=1 pageUrl=http://videos.clicrbs.com.br/rs/tvcom/videonews/1443/
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Com Florianópolis - SC
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Com Florianópolis - SC
 rtmp://$OPT:rtmp-raw=rtmp://322747t.lp.azioncdn.net:1935/2747t playpath=mp4:access_options/rtmp-live/tvcom-sc.sdp swfUrl=http://videos.clicrbs.com.br/sc/tvcom/swf/ACTPlayer.swf live=1 pageUrl=http://videos.clicrbs.com.br/sc/tvcom/videonews/15681/
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Jangadeiro - Band Fortaleza
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Jangadeiro - Band Fortaleza
 rtmp://$OPT:rtmp-raw=rtmp://201.12.119.29/livepkgr/ playpath=tvjangadeiro3 swfUrl=http://www.tribunadoceara.com.br/tv-jangadeiro/wp-content/themes/2013_jangadeiro_tv/js/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.tribunadoceara.com.br/tv-jangadeiro/ao-vivo/
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Meio Norte
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Meio Norte
 rtmp://$OPT:rtmp-raw=rtmp://cdn1.amsolution.net.br:1935/mntv playpath=mntv swfUrl=http://www.meionorte.com/images/player.swf live=1 pageUrl=http://www.meionorte.com/redemeionorte/
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Mundial
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Mundial
 rtmp://$OPT:rtmp-raw=rtmp://174.122.253.242/impd/ playpath=impd swfUrl=http://assets.gospelprime.com.br/tv/player.swf live=1 pageUrl=http://tv.gospelprime.com.br/assitir-tv-mundial-ao-vivo-igreja-mundial-do-poder-de-deus-ao-vivo-on-line/
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Poços
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Poços
 rtmp://$OPT:rtmp-raw=rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp app=00084 pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00084&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00084&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://rtmp.cdn.upx.net.br/00084 playP
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Século XXI
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Século XXI
 http://257919-lh.akamaihd.net/TVSeculo21_hdlive_250@145740?bandwidthEstimationTest=true&v=3.0.3&fp=WIN%2012,0,0,43&r=JTECX&g=KTAKFMMSIQWI
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Senado
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Senado
 mms://drix.senado.gov.br/tv1
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TV Sul Educativa
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Sul Educativa
 rtmp://$OPT:rtmp-raw=rtmp://rtmp.cdn.upx.net.br/00046/myStream.sdp app=00046 pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00046&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00046&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://rtmp.cdn.upx.net.br/00046 playP
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",TVE-RS - TVE do Rio Grande do Sul
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TVE-RS - TVE do Rio Grande do Sul
 mms://200.189.113.200/TVE
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~310kbps",Via Morena Tv - Campo Grande - MS
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Via Morena Tv - Campo Grande - MS
 rtmp://$OPT:rtmp-raw=rtmp-raw=rtmp://nsp0813vimna35.nethorizontes.com.br/nsp0813vimna35 playpath=viamorena swfUrl=http://livetvstreaming.ucoz.com live=1 live=1
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Band
-rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tvimagemhd playpath=tvimagemhd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Cultura
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Band
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tvimagemhd playpath=tvimagemhd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Band HD
+http://50.7.77.20:1935/record/CH106_Big/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Cultura
 rtmp://$OPT:rtmp-raw=rtmp://200.136.27.12/live playpath=tv swfUrl=http://cmais.com.br/portal/js/mediaplayer/player.swf live=1 pageUrl=http://cmais.com.br/aovivo
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Esporte Interativo
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Esporte Interativo
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/26hd playpath=26hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Esporte Interativo Nordeste
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Esporte Interativo Nordeste
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/einorhd playpath=einorhd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Globo RJ
-rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/rioalta playpath=rioalta swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Just TV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Gazeta HD
+rtmp://$OPT:rtmp-raw=rtmp://50.7.77.18/record/iago7972 playpath=CH105_Big swfUrl=http://www.mybrasiltv.com/ptplayer/player/flowplayer-3.2.18.swf pageUrl=http://www.mybrasiltv.com/ptplayer/flowplayer/Home.php conn=S:OK swfVfy=true live=true timeout=10
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Globo RJ
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/rioalta playpath=rioalta swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Globo SP
+http://50.7.77.20:1935/record/CH102_Big/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Just TV
 rtmp://$OPT:rtmp-raw=rtmp://72.55.165.222:1935/live playpath=livestream.sdb swfUrl=http://www.justtv.com.br/portal/aovivo/swfs/StrobeMediaPlayback.swf live=1 pageUrl=http://www.justtv.com.br/portal/aovivo/new_player.php
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Record
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Mix TV
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/mixtvhd playpath=mixtvhd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Record
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/18hd playpath=18hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",Record News
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Record HD
+http://50.7.77.20:1935/record/CH104_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Record HD+
+http://50.7.77.20:1935/record/CH104_Big/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",Record News
 rtmp://a1.fabricahost.com.br:1935/redemercosul/redemercosul.flv
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",RedeTV HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",RedeTV
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=22hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Abertos" group-title="Abertos : ~740kbps",SBT
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",RedeTV HD
+http://50.7.77.20:1935/record/CH103_Big/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",SBT
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/21hd playpath=21hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",AE
-rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/ae playpath=ae swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Animal Planet
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",SBT HD
+http://50.7.77.20:1935/record/CH101_Big/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil HQ",SBT HD
+http://50.7.77.20:1935/record/CH101_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",AE
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/ae_1 playpath=ae_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Animal Planet
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/30 playpath=30 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",AXN
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",AXN
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master52 playpath=master52 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Baby TV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Baby TV
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/131 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=131
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Band News
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Band News
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/noticias playpath=noticias swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Band Sports
-rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/taroba playpath=taroba swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Bio HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Band Sports
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/ch002 playpath=ch002 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Bio HD
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hd playpath=hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Boomerang
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Boomerang
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/79 app=master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR1
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Canal Brasil
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Canal Brasil
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/88 playpath=88 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Cartoon Network
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Cartoon Network
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/brlive_0028 playpath=brlive_0028 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Chef TV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Chef TV
 rtmp://$OPT:rtmp-raw=rtmp://flashd.localmidia.com.br/cheftv/aovivo playpath=aovivo swfUrl=http://cheftv.com.br/static/js/vendor/flowplayer/flowplayer.commercial-3.2.7.swf live=1  pageUrl=http://cheftv.com.br/programacao/aovivo/
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Cine Brasil TV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Cine Brasil TV
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/boninho app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=boninho
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Cinemax
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Cinemax
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/53 playpath=53 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Combate
-rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/mma app=mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Comedy Central
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Combate
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/mma playpath=mma swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Comedy Central
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/96 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=96
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Discovery
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master04 playpath=master04 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery Civilization
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Discovery Civilization
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/discivil377 playpath=discivil377 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery HD Theater
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Discovery HD Theater
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/discohd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=discohd
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery Kids
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Discovery Kids
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master24 playpath=master24 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery Science
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Discovery Science
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/130 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=130
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Discovery Turbo
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Discovery Turbo
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/92 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 playpath=92
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Disney Channel
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Disney Channel
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/disney playpath=disney swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Disney Junior
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Disney Junior
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/animax playpath=animax swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Disney XD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Disney XD
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/60 playpath=60 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",E!
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",E!
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/bbb14 playpath=bbb14 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",ESPN
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",ESPN
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/1 playpath=1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",ESPN Brasil
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",ESPN Brasil
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/2 playpath=2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",ESPN+
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",ESPN+
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/espn+ playpath=espn+ swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fish TV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Fish TV
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/89 playpath=89 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Fox
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/8 playpath=8 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Fox
 rtmp://$OPT:rtmp-raw=rtmpe://80.82.70.239:443/liveedge/ playpath=ch29-ktkCb47VLa swfUrl=http://livecast.cc/live/p.swf live=1 tcUrl=rtmpe://80.82.70.239:443/liveedge/ pageUrl=http://livecast.cc/live/stream14.php?ch=ch29-ktkCb47VLa&width=645&height=450
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Fox
 rtmp://$OPT:rtmp-raw=rtmpe://89.248.168.130:443/liveedge/ playpath=ch29-ktkCb47VLa swfUrl=http://livecast.cc/live/p.swf live=1 tcUrl=rtmpe://89.248.168.130:443/liveedge/ pageUrl=http://livecast.cc/live/stream14.php?ch=ch29-ktkCb47VLa&width=645&height=450
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox Life
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Fox Life
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/foxlife playpath=foxlife swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox Sports
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Fox Sports
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/101_2 playpath=101_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Fox Sports 2
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Fox Sports 2
 rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/foxsports2 playpath=foxsports2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",FX
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",FX
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master25 playpath=master25 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Glitz
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Glitz
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/81 playpath=81 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Globo News
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Globo News
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/aovivo_1 playpath=aovivo_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Globosat HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Globosat HD
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/sat playpath=sat swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Gloob
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Gloob
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/110 app=mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",GNT
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",GNT
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/132 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=132
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",HBO
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",HBO
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/20 playpath=20 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",HBO 2
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",HBO 2
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hbo2 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=hbo2
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",HBO Family
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",HBO Family
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hbofamily playpath=hbofamily swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",HBO Plus
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",HBO Plus
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hboplus playpath=hboplus swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",HBO Signature
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",HBO Signature
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/108 playpath=108 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",History
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",History
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/history playpath=history swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Home and Health
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Home and Health
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/106 playpath=106 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",i SAT
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",i SAT
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/isat app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=isat
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",ID
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",ID
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/105 playpath=105 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Max HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Max HD
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/47 playpath=47 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Max Prime
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Max Prime
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tvmsnmaxxprime playpath=tvmsnmaxxprime swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Megapix
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Megapix
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master11 playpath=master11 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",MGM
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",MGM
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/104 playpath=104 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",MTV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",MTV
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hbohd playpath=hbohd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Multishow
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Multishow
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/brlive_0031 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=brlive_0031
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",NatGeo Wild HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",NatGeo Wild HD
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/animal playpath=animal swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",National Geographic
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",National Geographic
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/natgeo playpath=natgeo swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Nick Jr.
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Nick Jr.
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/nickjr playpath=nickjr swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Nickelodeon
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Nickelodeon
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/28 playpath=28 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Nickelodeon HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Nickelodeon HD
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/102 playpath=102 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Off
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Off
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/off_1 playpath=off_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",PFC
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",PFC
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/futebol app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=futebol
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Sony
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Sony
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/sony playpath=sony swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Sony Spin
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Sony Spin
 rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=sonyspin swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/sonyspin.html
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Sony Spin
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Sony Spin
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/sonyspin playpath=sonyspin swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Space
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Space
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=51 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",SPORTS+
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",SPORTS+
 rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/sportsmais playpath=sportsmais swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",SporTV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",SporTV
 rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/paloma_3 playpath=paloma_3 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",SporTV2
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",SporTV2
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/jean_1 playpath=jean_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",SporTV3
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",SporTV3
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/reserva playpath=reserva swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Studio Universal
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Studio Universal
 rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/studio.html
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Studio Universal
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Studio Universal
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/studio playpath=studio swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Syfy
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Syfy
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/103 playpath=103 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",TBS HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",TBS HD
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tbs playpath=tbs swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",TCM
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",TCM
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tcm playpath=tcm swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Action
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Telecine Action
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/37 playpath=37 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Cult
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Telecine Cult
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tccult playpath=tccult swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Fun
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Telecine Fun
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/44 playpath=44 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Pipoca
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Telecine Pipoca
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master18 playpath=master18 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Premium
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Telecine Premium
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/70 playpath=70 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Telecine Touch
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Telecine Touch
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/36 playpath=36 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",TLC
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",TLC
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/113 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=113
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",TNT
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",TNT
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master77_1 playpath=master77_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Tooncast
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Tooncast
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/85 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=85
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",truTv
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",truTv
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/112_1 playpath=112_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Universal Channel
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",TV Rá Tim Bum
+http://50.7.77.20:1935/record/CH110_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Universal Channel
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master20 playpath=master20 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Viva
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Viva
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master21 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=master21
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Warner Channel
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Warner Channel
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master22 playpath=master22 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~310kbps",Zoomoo
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Zoomoo
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/zoomi playpath=zoomi swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Animal Planet
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",AE
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/ae_2 playpath=ae_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Animal Planet
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=30hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Band News
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Band News
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/noticias playpath=noticias swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Band Sports
-rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tarobasd playpath=tarobasd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Cine Brasil TV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Band Sports
+rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tarobasd playpath=tarobasd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Band Sports HD
+http://192.96.201.18:1935/record/CH107_Small/playlist.m3u8?$vaiseferrar-mybrasiltv-by-iago7972-gmail-com
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Band Sports HD+
+http://192.96.201.18:1935/record/CH107_Big/playlist.m3u8?$vaiseferrar-mybrasiltv-by-iago7972-gmail-com
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Canal Brasil HD
+http://50.7.77.20:1935/record/CH112_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Canal Brasil HD+
+http://50.7.77.20:1935/record/CH112_Big/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Cine Brasil TV
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/boninhohd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=boninhohd
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Cinemax
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Cinemax
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/53hd playpath=53hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Combate
-rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/mmahd app=mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOT
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Discovery
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Combate
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/mmahd playpath=mmahd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Discovery
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/14hd playpath=14hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Discovery HD Theater
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Discovery HD Theater
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/hishd_1 playpath=hishd_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Discovery Kids
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Discovery Kids
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/kidhd playpath=kidhd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Discovery Science
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Discovery Science
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/130hd playpath=130hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Discovery Turbo
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Discovery Turbo
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/92hd playpath=92hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Disney Junior
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Disney Junior
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=67hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Disney XD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Disney XD
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/60hd playpath=60hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",E!
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",E!
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/bbb14hd playpath=bbb14hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",ESPN
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",ESPN
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/1hd playpath=1hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",ESPN Brasil
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",ESPN Brasil
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/2hd playpath=2hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",ESPN+ HD
-rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/espn+hd playpath=espn+hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Fox
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",ESPN+ HD
+rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/espn+hd playpath=espn+hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Fox
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/8hd playpath=8hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Fox Life
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Fox Life
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/foxlifehd playpath=foxlifehd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Fox Sports
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Fox Sports
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/101_1 playpath=101_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Fox Sports 2
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Fox Sports 2
 rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/foxsports2hd playpath=foxsports2hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Globo News HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Fox Sports HD
+http://50.7.77.20:1935/record/CH105_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Fox Sports HD+
+http://50.7.77.20:1935/record/CH105_Big/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Globo News
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/aovivo_2 playpath=aovivo_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Globosat HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Globo News HD
+http://50.7.77.20:1935/record/CH111_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Globo News HD+
+http://50.7.77.20:1935/record/CH111_Big/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Globosat HD
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/sathd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=sathd
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Gloob HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Gloob HD
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/110hd app=mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOT
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",HBO
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",HBO
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/20hd playpath=20hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",HBO 2
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",HBO 2
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/40hd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=40hd
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",History
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",History
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/12hd playpath=12hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",i SAT
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",i SAT
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/isathd playpath=isathd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Max HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Max HD
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/maxsuperhd app=master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Max Prime
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Max Prime
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/59hd playpath=59hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Megapix
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Megapix
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master11 playpath=master11 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",MTV
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",MTV
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/87hd playpath=87hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",NatGeo Wild HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",NatGeo Wild HD
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/82hd playpath=82hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",National Geographic
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",National Geographic
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/natgeohd playpath=natgeohd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Nickelodeon
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Nickelodeon
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/28hd playpath=28hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Nickelodeon HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Nickelodeon HD
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/102hd playpath=102hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Off
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Off
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/off_2 playpath=off_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",PFC HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",PFC HD
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/futebolgrande app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=futebolgrande
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Space
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Space
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=51hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",SPORTS+
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",SPORTS+
 rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/111hd playpath=111hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",SporTV HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",SporTV
 rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/paloma_2 playpath=paloma_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",SporTV2
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",SporTV HD
+http://50.7.77.20:1935/record/CH108_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",SporTV HD+
+http://50.7.77.20:1935/record/CH108_Big/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",SporTV2
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/jean_2 playpath=jean_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",SporTV3
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",SporTV2 HD
+http://50.7.77.20:1935/record/CH109_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",SporTV2 HD+
+http://50.7.77.20:1935/record/CH109_Big/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",SporTV3
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/reservamaxx playpath=reservamaxx swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",TBS HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",TBS HD
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/tbshd playpath=tbshd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",TCM
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",TCM
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playpath=91hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Telecine Action HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Telecine Action HD
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/37hd playpath=37hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Telecine Cult HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Telecine Cult HD
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/66hd playpath=66hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Telecine Pipoca HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Telecine Pipoca HD
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/11hd playpath=11hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Telecine Premium HD
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Telecine Premium HD
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/70hd playpath=70hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf live=1  pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",TLC
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",TLC
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/113hd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=113hd
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",TNT
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",TNT
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master77_2 playpath=master77_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",truTv
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",truTv
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/112_2 playpath=112_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Universal Channel
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",TV Rá Tim Bum
+http://50.7.77.20:1935/record/CH110_Big/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Universal Channel
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/universalhd playpath=universalhd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Viva
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Viva
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/52hd app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=52hd
-#EXTINF:-1 $ExtFilter="Fechados" group-title="Fechados : ~740kbps",Zoomoo
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Zoomoo
 rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/zoomi playpath=zoomi swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",60s Rock
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",American Dad
+rtmp://$OPT:rtmp-raw=rtmp://88.190.34.152/americandad/americandad/americandad playpath=americandad swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/american-dad.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Avatar
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/aovivo/avatar playpath=avatar swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/avatar.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Batman
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/batman playpath=batman swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/batman.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Ben 10
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/ben10 playpath=ben10 swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/ben10.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Bob Esponja
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/bob playpath=bob swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/bobesponja.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Caverna do Dragão
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/caverna playpath=caverna swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/caverna.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Coragem o Cão Covarde
+rtmp://$OPT:rtmp-raw=rtmp://88.190.34.152/coragem/coragem/coragem playpath=coragem swfUrl=http://www.tvonlinegratis.tv/player.swf live=1  pageUrl=http://www.tvonlinegratis.tv/parcerias/coragem.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Digimon
+rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:80/digimon/digimon/digimon playpath=digimon swfUrl=http://livestreamcast.org/swfs/player.swf live=1  pageUrl=http://livestreamcast.org/embeds.php?c=digimon&vw=468&vh=355
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Doug
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/doug playpath=doug swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/doug.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Dragon Ball Z
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/dbz playpath=dbz swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/dbz.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",DuckTales
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live/patinhas playpath=patinhas swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1  pageUrl=http://www.tvonlinegratis.tv/parcerias/duck-tales.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Futurama
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/friends playpath=friends swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/friends.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Galinha Pintadinha
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/galinha playpath=galinha swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/galinhapintadinha.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Naruto
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/naruto playpath=naruto swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/naruto.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Os Cavaleiros do Zodiaco
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/cdz playpath=cdz swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/cdz.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Os Flintstones
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live/flinstones playpath=flinstones swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1  pageUrl=http://www.tvonlinegratis.tv/parcerias/flintstones.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Os Padrinhos Mágicos
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/aovivo/padrinhos playpath=padrinhos swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1  pageUrl=http://www.tvonlinegratis.tv/parcerias/padrinhos-magicos.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Os Simpsons
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/simpsons playpath=simpsons swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/simpsons.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Pica Pau
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/picapau playpath=picapau swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/picapau.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Pokémon
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live/pokemon playpath=pokemon swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/pokemon.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Scooby-Doo
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live playpath=scoob swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/schoobydoo.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",South Park
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live/park playpath=park swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/south-park.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",The Cleveland Show
+rtmp://$OPT:rtmp-raw=rtmp://88.190.34.152/thecrevelandshow/thecrevelandshow playpath=thecrevelandshow swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/cleveland.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Tom e Jerry
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/tom playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/tomejerry.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Uma Família da Pesada
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/aovivo/familiadapesada playpath=familiadapesada swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/family-guy.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",X Men
+rtmp://$OPT:rtmp-raw=rtmp://88.190.30.28/xmen/xmen playpath=xmen swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/x-men.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Yu Gi Oh
+rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:80/yugi/yugi/yugi playpath=yugi swfUrl=http://livestreamcast.org/swfs/player.swf live=1  pageUrl=http://livestreamcast.org/embeds.php?c=yugi&vw=468&vh=355
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Yu Yu Hakusho
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/aovivo/yuyu playpath=yuyu swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1  pageUrl=http://www.tvonlinegratis.tv/parcerias/yuyu.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",11 de Setembro: Vozes do Ar
+http://www.youtube.com/watch?v=5WEUYEh1NHg
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",A Arte da Guerra - Sun Tzu
+http://www.youtube.com/watch?v=Pfr2_0bQJzw
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",A História das Drogas
+http://www.youtube.com/watch?v=7Qy3tpezxao
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",A História do Mundo em 2 Horas
+http://www.youtube.com/watch?v=KHLrxTvJBXM
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Albert Einstein
+http://www.youtube.com/watch?v=yCCAMJ96J7Y
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Alienígenas do Passado - A Criação do Homem
+http://www.youtube.com/watch?v=jYpr4ldSN7g
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Alienígenas do Passado - Muitos Mundos
+http://www.youtube.com/watch?v=0QKlmVGFju0
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Apollo 13 - Situação Crítica
+http://www.youtube.com/watch?v=wB7HYjZcdSs
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Boeing 747-8 - Mega Máquinas
+http://www.youtube.com/watch?v=OVajzV9PcBs
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Evacuando a Terra
+http://www.youtube.com/watch?v=kTFeYS5Y8H4
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Grande História das Pequenas Coisas
+http://www.youtube.com/watch?v=f7NH_d2Jucg
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Holocausto - A Execução do Mal
+http://www.youtube.com/watch?v=xZVDa-MB-9U
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Objetivo: Bin Laden
+http://www.youtube.com/watch?v=NDXC2LXSdwU
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Pe Grande A Um Passo
+http://www.youtube.com/watch?v=nqkoAo5XnsQ
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Pearl Harbor 24 Horas Depois
+http://www.youtube.com/watch?v=Cu5yqd1KlnI
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Sniper: Atiradores de Elite - EP 01
+http://www.youtube.com/watch?v=WJwMugaeiIE
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Sniper: Atiradores de Elite - EP 02
+http://www.youtube.com/watch?v=YQkoRihq7uo
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Sniper: Atiradores de Elite - EP 03
+http://www.youtube.com/watch?v=CD0xGClu2Vk
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",13 - O Jogador
+http://www.youtube.com/watch?v=DF4mRNnIhJk
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",1408
+http://www.youtube.com/watch?v=zksSDHh7bpc
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",A Garota dos Sonhos (2009)
+http://www.youtube.com/watch?v=HtpUTnuhQvw
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",A Lista
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/vod/?_fcs_vhost=content playpath=mp4:A_Lista.mp4 swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://www.mastertv.biz/A_Lista.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",A Máquina do Tempo
+http://vk.com/video164365737_163725386
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",A Ocasião Faz o Ladrão
+http://vk.com/video203968065_165382218
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Agentes 000
+http://www.youtube.com/watch?v=XiZjDTMlcx8
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Amor Felicidade ou Casamento
+http://vk.com/video162930581_162874535
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Anjo das Trevas
+http://www.youtube.com/watch?v=ui6b144MN0k
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Anjos da Noite 4
+http://www.youtube.com/watch?v=npurCUyRr4E
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Area 51
+http://www.youtube.com/watch?v=kevC5enV0Os
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Arrebentando na Prisão
+http://www.youtube.com/watch?v=5aAwPyqhgyE
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",As 7 Regras do Amor
+http://www.youtube.com/watch?v=m2X_MlYgXr4
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",As Branquelas
+http://vk.com/video213595664_165386598
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Caça as Bruxas
+http://www.youtube.com/watch?v=IrBCzfRM3kM
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Carrie: A Estranha
+http://www.youtube.com/watch?v=QJWnbR7pmiI
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Cilada.Com
+http://www.youtube.com/watch?v=X1iOxGRLz-E
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Cine Comédia
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live playpath=comedia swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/cine-comedia.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Cine Terror
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live playpath=terror swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/cine-terror.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Codigo de Conduta 2009
+http://www.youtube.com/watch?v=GfBPc2h6caQ
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Coincidências do Amor
+http://vk.com/video164365737_162977515
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Conan o Bárbaro
+http://www.youtube.com/watch?v=mALF6UmbDTg
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Deja Vu
+http://www.youtube.com/watch?v=qyYghESR1OQ
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Demolidor - O Homem Sem Medo
+http://vk.com/video164365737_162555209
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Detona Ralph
+http://www.youtube.com/watch?v=dxr6YElqhbA
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Deu a Louca Nos Nazis
+http://www.youtube.com/watch?v=vOowVz2VWnY
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Don Juan de Marco
+http://www.youtube.com/watch?v=0QzOe8piXgg
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Efeito Borboleta
+http://vk.com/video116076584_159015071
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Encontro às Escuras
+http://www.youtube.com/watch?v=8NIvdITPZiA
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Eu Odeio o Dia dos Namorados
+http://www.youtube.com/watch?v=UH1jGOGoDRo
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Evocando Espíritos
+http://www.youtube.com/watch?v=RBdlF8WuLRk
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Filmes 24 Horas
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/filmes playpath=filmes swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/filmes.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Fuga Implacável
+http://vk.com/video189165292_164118429
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Gamer
+http://vk.com/video164365737_162344239
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Gigantes de Aço
+http://www.youtube.com/watch?v=vq9BeF58K7w
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Guerra Mundial Z
+http://www.youtube.com/watch?v=nio9S67LPcQ
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Homem de Ferro 3
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/vod/?_fcs_vhost=content playpath=mp4:hf3.mp4 swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://www.mastertv.biz/hf3.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Irmãs e Irmãos
+http://fs003.dropvideo.com/v/e3c2aaa2be19eb224a592b2413bea4b8.mp4?st=YNTeqq_cW81EbVsxVx6kQA
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",La Bamba (1987)
+http://www.youtube.com/watch?v=WN3Q8-p9te8
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Lutador de Rua
+http://www.youtube.com/watch?v=P9e6hNPAZeM
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Meu Namorado do Futuro
+http://www.youtube.com/watch?v=rYJi2YxS5d4
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Missao Impossivel
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/vod/?_fcs_vhost=content playpath=mp4:m1.mp4 swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://www.mastertv.biz/m1.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Missao Impossivel 2
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/vod/?_fcs_vhost=content playpath=mp4:m2.mp4 swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://www.mastertv.biz/m2.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Missao Impossivel 3
+rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/vod/?_fcs_vhost=content playpath=mp4:m3.mp4 swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://www.mastertv.biz/m3.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Missao Impossivel 4
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/demanda/?_fcs_vhost=mtvon playpath=mp4:missao-impossivel-4-dublado-240.mp4 swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://www.mastertv.biz/29.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Apocalipse
+http://www.youtube.com/watch?v=LUIbiICi8K4
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Atirador - Apontando Para a Morte
+http://www.youtube.com/watch?v=c28TQ0FSzOU
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Caçador de Dragões
+http://www.youtube.com/watch?v=0BFoL9k7B4U
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Corvo
+http://www.youtube.com/watch?v=kUBLanxkGd8
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Espetacular Homem Aranha
+http://www.youtube.com/watch?v=IKf7ofhhGUY
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Garoto do Futuro - "Raríssimo"
+http://www.youtube.com/watch?v=9VKwSV-d3mM
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Golpista do Ano
+http://www.youtube.com/watch?v=4W6uutArdT8
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Ilusionista
+http://www.youtube.com/watch?v=qARXCylvgWc
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Quinto Mandamento
+http://www.youtube.com/watch?v=uHwrR8LrVr8
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Telepata
+http://www.youtube.com/watch?v=01R6WiYl8wI
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Os Croods
+http://www.youtube.com/watch?v=HEr0NosQEns
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Os Smurfs 2
+http://vk.com/video229769079_166542556
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Parentes Perfeitos
+http://www.youtube.com/watch?v=enQOGmlKtZc
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Putz! a Coisa Tá Feia
+http://www.youtube.com/watch?v=1aYVmTL_lh8
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Rock Star
+http://www.youtube.com/watch?v=oSSdMuoZ5fI
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",S.W.A.T. - Comando Especial 2
+http://vk.com/video203968065_165439480
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Thor O Mundo Sombrio
+http://www.youtube.com/watch?v=xEdn7Vfqrqw
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Todo Poderoso: O Filme - 100 Anos de Timão
+http://www.youtube.com/watch?v=cdiJkGE0lBY
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Um Crime de Mestre
+http://www.youtube.com/watch?v=gpBUbDpnWnc
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Uma Mente Brilhante
+http://www.youtube.com/watch?v=BsO5N16uQGc
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Viagem sem Volta
+http://www.youtube.com/watch?v=wgCcij1znzQ
+#EXTINF:-1 $ExtFilter="VOD" group-title="Musicais",Classics Music HD
+http://www.youtube.com/watch?v=8ptfyhBjXj8
+#EXTINF:-1 $ExtFilter="VOD" group-title="Musicais",Coldplay - Rock in Rio
+http://www.youtube.com/watch?v=Wrs6M_wh1yI
+#EXTINF:-1 $ExtFilter="VOD" group-title="Musicais",Dance Music HD
+http://www.youtube.com/watch?v=KiLOkfRYeDE
+#EXTINF:-1 $ExtFilter="VOD" group-title="Musicais",Jazz HD
+http://www.youtube.com/watch?v=7WbgA26x1AY
+#EXTINF:-1 $ExtFilter="VOD" group-title="Musicais",LiveMix HD
+http://www.youtube.com/watch?v=h1iW0n6_BKg
+#EXTINF:-1 $ExtFilter="VOD" group-title="Musicais",Luan Santana ao Vivo 2012
+http://www.youtube.com/watch?v=M-fwjHs3lKQ
+#EXTINF:-1 $ExtFilter="VOD" group-title="Musicais",O Rappa Planeta Atlantida 2012
+http://www.youtube.com/watch?v=c1KEuquIxQc
+#EXTINF:-1 $ExtFilter="VOD" group-title="Musicais",Pop Music HD
+http://www.youtube.com/watch?v=jguSxW_aQWg
+#EXTINF:-1 $ExtFilter="VOD" group-title="Musicais",Rock Music HD
+http://www.youtube.com/watch?v=TCCYSN7eWS4
+#EXTINF:-1 $ExtFilter="VOD" group-title="Musicais",System of a Down - Rock in Rio 2011
+http://www.youtube.com/watch?v=s5So46NR3WE
+#EXTINF:-1 $ExtFilter="VOD" group-title="Musicais",Tributo - Renato Russo
+http://www.youtube.com/watch?v=pRyQ66ON2gk
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",American Horror Story
+rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/aovivo/americanhorror playpath=americanhorror swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/american-horror-story.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Breaking Bad
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.202/ctv/breaking playpath=breaking swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/breaking.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Chapolin
+rtmp://$OPT:rtmp-raw=rtmp://88.190.30.28/chapolin/chapolin/chapolin playpath=chapolin swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/chapolim.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Chaves
+rtmp://$OPT:rtmp-raw=rtmp://76.73.45.50/ctv/chaves playpath=chaves swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/chaves.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Chaves HD
+rtmp://$OPT:rtmp-raw=rtmp://50.7.32.243:80/chaves3/chaves3 playpath=chaves3 swfUrl=http://www.livestreamcast.org/StrobeMediaPlayback.swf live=1  pageUrl=http://www.livestreamcast.org/player/embed_t.php?&c=chaves3&vw=468&vh=360
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",CHUCK
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.202/ctv/chuck playpath=chuck swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/chuck.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Criminal Minds
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/criminal playpath=criminal swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/criminalminds.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",CSI
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/csi playpath=csi swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/csi.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Dois Homens e Meio 1
+rtmp://$OPT:rtmp-raw=rtmp://88.190.30.28/two/two/two playpath=two swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/2emeio.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Dois Homens e Meio 2
+rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:80/two/two playpath=two swfUrl=http://www.livestreamcast.org/StrobeMediaPlayback.swf live=1 pageUrl=http://www.livestreamcast.org/player/embed_t2.php?&c=two&vw=468&vh=360
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Dois Homens e Meio 3
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.202/ctv/two playpath=two swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/two.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Dr House
+rtmp://$OPT:rtmp-raw=rtmp://88.190.34.152/drhouse/drhouse playpath=drhouse swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/drhouse.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Drake e Josh
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/drake playpath=drake swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/drakejosh.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Eu a Patroa e as Crianças
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.202/ctv/patroa playpath=patroa swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/patroa.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Friends
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/friends playpath=friends swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/friends.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Glee
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/glee playpath=glee swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/glee.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Gossip Girl
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/gossip playpath=gossip swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/gossip.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Heroes
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/heroes playpath=heroes swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/heroes.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",iCarly
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/icarly playpath=icarly swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/icarly.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Kenan e Kel
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/kenan playpath=kenan swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/kenanekel.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Lost
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/lost playpath=lost swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/lost.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",O Mentalista
+rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:80/metalista/metalista/metalista playpath=metalista swfUrl=http://livestreamcast.org/swfs/player.swf live=1  pageUrl=http://livestreamcast.org/embeds.php?c=metalista&vw=468&vh=355
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Panico na Band
+rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:80/panico/panico/panico playpath=panico swfUrl=http://www.livestreamcast.org/StrobeMediaPlayback.swf live=1 pageUrl=http://www.livestreamcast.org/player/embed_t2.php?&c=panico&vw=468&vh=300
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Prison Break
+rtmp://$OPT:rtmp-raw=rtmp://76.73.45.50/ctv/prison playpath=prison swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/prisonbreak.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Smallville
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/small playpath=small swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/small.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Spartacus
+rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:80/Spartacus/Spartacus/Spartacus playpath=Spartacus swfUrl=http://livestreamcast.org/swfs/player.swf live=1  pageUrl=http://livestreamcast.org/embeds.php?c=Spartacus&vw=468&vh=355
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Supernatural
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/supernatural playpath=supernatural swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/supernatural.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",The Big Bang Theory
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/big playpath=big swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/bigbang.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",The Walking Dead
+rtmp://$OPT:rtmp-raw=rtmp://88.190.34.152/twd/twd playpath=twd swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/twd.php
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Todo Mundo Odeia o Chris
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/cris playpath=cris swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/cris.html
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Um Maluco no Pedaço
+rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/maluconopedaco playpath=maluconopedaco swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/maluconopedaco.html
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",3 Doors Down - Greatest Hits
+http://www.youtube.com/watch?v=cZZgD91w-Wg
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",AC/DC - Greatest Hits 2011
+http://www.youtube.com/watch?v=La_aW-c14P4
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Audioslave - Greatest Hits
+http://www.youtube.com/watch?v=SAZXWzCcOg4
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Creed - Greatest Hits
+http://www.youtube.com/watch?v=KlzJlDy8CB4
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Creed - My Own Prison
+http://www.youtube.com/watch?v=LAEw8UaUfSg
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Def Leppard - Vault Greatest Hits
+http://www.youtube.com/watch?v=aeeILhuKEXk
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Guns N' Roses - Greatest Hits
+http://www.youtube.com/watch?v=6ZgMBgVKAjE
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Iron Maiden - The Number of the Beast
+http://www.youtube.com/watch?v=1YjOQy0LydY
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Legião Urbana - Dois
+http://www.youtube.com/watch?v=0qnGv4IW2Ac
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Legião Urbana - Que País é Este
+http://www.youtube.com/watch?v=8R6LIXrVj4A
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Linkin Park - Greatest Hits 2000-2012
+http://www.youtube.com/watch?v=NX0gyEDrAfQ
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Manowar - Warriors Of The World
+http://www.youtube.com/watch?v=A0xzOL58fuk
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Metallica - Black Album
+http://www.youtube.com/watch?v=DqDeH3hwxfw
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Nirvana - Nevermind
+http://www.youtube.com/watch?v=50Y8UBKI09k
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Oasis - Greatest Hits
+http://www.youtube.com/watch?v=09f93LdQ36Q
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Pearl Jam - Lightning Bolt
+http://www.youtube.com/watch?v=b2Tt_QT7Z8Q
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Pink Floyd - Greatest Hits 1
+http://www.youtube.com/watch?v=MmMSnbZVkEQ
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Scorpions - Greatest Hits
+http://www.youtube.com/watch?v=pwskwBsJlQw
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",60s Rock
 http://listen.rockradio.com/public3/60srock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",80s Alternative
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",80s Alternative
 http://listen.rockradio.com/public3/alternative80s.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",80s Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",80s Rock
 http://listen.rockradio.com/public3/80srock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",89 Radio Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",89 Radio Rock
 http://50-7-66-170.webnow.net.br:80/radiorock.aac
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",90s Alternative
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",90s Alternative
 http://listen.rockradio.com/public3/alternative90s.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",90s Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",90s Rock
 http://listen.rockradio.com/public3/90srock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Beatles Tribute
-http://listen.rockradio.com/public3/beatlestribute.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Black Metal
-http://listen.rockradio.com/public3/blackmetal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Blues Rock
-http://listen.rockradio.com/public3/bluesrock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Bossa Jazz Brasil
-http://streaming17.brlogic.com:8238/live
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Brasil Radio
-http://listen.radionomy.com/75brasilradio.m3u
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Brasil Sertanejo
-http://listen.radionomy.com/brasil-sertanejo.m3u
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Cafe 80´s
-http://streaming202.radionomy.com:80/cafe80s
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Classic Hard Rock
-http://listen.rockradio.com/public3/classichardrock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Classic Metal
-http://listen.rockradio.com/public3/classicmetal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Classic Rock
-http://listen.rockradio.com/public3/classicrock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Classic Rock
-http://streaming208.radionomy.com:80/ROCK-Classic
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Dance - Anos 90
-http://streaming202.radionomy.com:80/Dance90
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Death Metal
-http://listen.rockradio.com/public3/deathmetal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Deathcore
-http://listen.rockradio.com/public3/deathcore.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Festa
-http://141.0.169.245:80/partyfm-high
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Grunge
-http://listen.rockradio.com/public3/grunge.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Hair Bands
-http://listen.rockradio.com/public3/hairbands.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Hard Core
-http://listen.rockradio.com/public3/hardcore.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Hard Rock
-http://listen.rockradio.com/public3/hardrock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Harder Rock
-http://listen.rockradio.com/public3/harderrock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Heavy Metal
-http://listen.rockradio.com/public3/heavymetal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Hot Hits
-http://streaming207.radionomy.com:80/HIT-S-MY-MUSIC
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Indie Rock
-http://listen.rockradio.com/public3/indierock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Industrial
-http://listen.rockradio.com/public3/industrial.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Jam Bands
-http://listen.rockradio.com/public3/jambands.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Melodic Death Metal
-http://listen.rockradio.com/public3/melodicdeathmetal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Metal
-http://listen.rockradio.com/public3/metal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Metalcore
-http://listen.rockradio.com/public3/metalcore.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Modern Rock
-http://listen.rockradio.com/public3/modernrock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Never Stop Dancing
-http://streaming205.radionomy.com:80/Electronic-Global-Radio
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Nu Metal
-http://listen.rockradio.com/public3/numetal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Pop Punk
-http://listen.rockradio.com/public3/poppunk.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Pop Rock
-http://listen.rockradio.com/public3/poprock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Pop Rock - Hits
-http://ice.abradio.cz:80/hitpoprock64.aac
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Power Metal
-http://listen.rockradio.com/public3/powermetal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Power Metal
-http://streaming208.radionomy.com/PowerMetalcl
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Progressive Metal
-http://listen.rockradio.com/public3/progressivemetal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Progressive Rock
-http://listen.rockradio.com/public3/progressiverock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Punk Rock
-http://listen.rockradio.com/public3/punkrock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Rap Metal
-http://listen.rockradio.com/public3/rapmetal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Reggae 24 Horas
-http://67.159.12.5:80/tuner24_reggae_hi
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Rock Ballads
-http://listen.rockradio.com/public3/rockballads.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Rock Clássico
-http://play.uturnradio.com:80/classic_rock_64
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Rock´n Roll - Anos 80 e 90
-http://zzz.ee:8008/NetRock101
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Screamo-Emo
-http://listen.rockradio.com/public3/screamoemo.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Ska
-http://listen.rockradio.com/public3/ska.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Soft Rock
-http://listen.rockradio.com/public3/softrock.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Symphonic Metal
-http://listen.rockradio.com/public3/symphonicmetal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",The Best of 80´s
-http://streaming202.radionomy.com:80/Best80
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Thrash Metal
-http://listen.rockradio.com/public3/thrashmetal.pls
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Alternative
-rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginRockAlternative playpath=VirginRockAlternative swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Bau
-rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/RadioBAU playpath=RadioBAU swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Classic
-rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginRockClassic playpath=VirginRockClassic swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Hard Rock
-rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginHardRock playpath=VirginHardRock swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Music Star
-rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/LITFIBA playpath=LITFIBA swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Rock 70
-rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VIRGINROCK70 playpath=VIRGINROCK70 swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Gêneros",Virgin Radio Rock 80
-rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VIRGINROCK80 playpath=VIRGINROCK80 swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",98 FM Curitiba - É Tudo de Bom!
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",98 FM Curitiba - É Tudo de Bom!
 http://174-123-32-173.webnow.net.br:80/98fm.mp3
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",ABC Lounge
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",ABC Lounge
 http://listen.radionomy.com/abc-lounge.m3u
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Antena 1 FM 94,7
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",peg",Antena 1 FM 94,7
 http://s9.mediastreaming.it:7050
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Band News FM
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Band News FM
 rtmp://evp.mm.uol.com.br/bnewsfm_sp/_definst_/bnewsfm_sp
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Jovem Pan FM 100,9
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Beatles Tribute
+http://listen.rockradio.com/public3/beatlestribute.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Black Metal
+http://listen.rockradio.com/public3/blackmetal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Blues Rock
+http://listen.rockradio.com/public3/bluesrock.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Bossa Jazz Brasil
+http://streaming17.brlogic.com:8238/live
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Brasil Radio
+http://listen.radionomy.com/75brasilradio.m3u
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Brasil Sertanejo
+http://listen.radionomy.com/brasil-sertanejo.m3u
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Cafe 80´s
+http://streaming202.radionomy.com:80/cafe80s
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Classic Hard Rock
+http://listen.rockradio.com/public3/classichardrock.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Classic Metal
+http://listen.rockradio.com/public3/classicmetal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Classic Rock
+http://listen.rockradio.com/public3/classicrock.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Classic Rock
+http://streaming208.radionomy.com:80/ROCK-Classic
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Dance - Anos 90
+http://streaming202.radionomy.com:80/Dance90
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Death Metal
+http://listen.rockradio.com/public3/deathmetal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Deathcore
+http://listen.rockradio.com/public3/deathcore.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Festa
+http://141.0.169.245:80/partyfm-high
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Grunge
+http://listen.rockradio.com/public3/grunge.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Hair Bands
+http://listen.rockradio.com/public3/hairbands.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Hard Core
+http://listen.rockradio.com/public3/hardcore.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Hard Rock
+http://listen.rockradio.com/public3/hardrock.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Harder Rock
+http://listen.rockradio.com/public3/harderrock.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Heavy Metal
+http://listen.rockradio.com/public3/heavymetal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Hot Hits
+http://streaming207.radionomy.com:80/HIT-S-MY-MUSIC
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Indie Rock
+http://listen.rockradio.com/public3/indierock.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Industrial
+http://listen.rockradio.com/public3/industrial.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Jam Bands
+http://listen.rockradio.com/public3/jambands.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Jovem Pan FM 100,9
 http://rtmp.35c4.cdn.upx.net.br:1935/35c4/myStream.sdp/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Jovem Pan SP
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Jovem Pan SP
 mms://200.147.1.208/jovempan_cameras
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Kiss FM
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Kiss FM
 http://8333.live.streamtheworld.com/SAOPAULO1021AAC
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Kiss FM 102,1
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Kiss FM 102,1
 http://9303.live.streamtheworld.com:3690/SAOPAULO1021_SC
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Radio - I Love Dance FM
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Melodic Death Metal
+http://listen.rockradio.com/public3/melodicdeathmetal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Metal
+http://listen.rockradio.com/public3/metal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Metalcore
+http://listen.rockradio.com/public3/metalcore.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Modern Rock
+http://listen.rockradio.com/public3/modernrock.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Never Stop Dancing
+http://streaming205.radionomy.com:80/Electronic-Global-Radio
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Nu Metal
+http://listen.rockradio.com/public3/numetal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Pop Punk
+http://listen.rockradio.com/public3/poppunk.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Pop Rock
+http://listen.rockradio.com/public3/poprock.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Pop Rock - Hits
+http://ice.abradio.cz:80/hitpoprock64.aac
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Power Metal
+http://listen.rockradio.com/public3/powermetal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Power Metal
+http://streaming208.radionomy.com/PowerMetalcl
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Progressive Metal
+http://listen.rockradio.com/public3/progressivemetal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Progressive Rock
+http://listen.rockradio.com/public3/progressiverock.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Punk Rock
+http://listen.rockradio.com/public3/punkrock.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Radio - I Love Dance FM
 http://80.237.157.64:80/iloveradio2.mp3
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Radio Capital SP
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Radio Capital SP
 http://173.192.47.126:80/capital
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Radio Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Radio Metal
 http://streaming207.radionomy.com:80/MetalHeart
-#EXTINF:-1 $ExtFilter="Rádio" group-title="Rádio: Emissoras",Radio Mozart
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Radio Mozart
 http://listen.radionomy.com/radio-mozart.m3u
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Rap Metal
+http://listen.rockradio.com/public3/rapmetal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Reggae 24 Horas
+http://67.159.12.5:80/tuner24_reggae_hi
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Rock Ballads
+http://listen.rockradio.com/public3/rockballads.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Rock Clássico
+http://play.uturnradio.com:80/classic_rock_64
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Rock´n Roll - Anos 80 e 90
+http://zzz.ee:8008/NetRock101
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Screamo-Emo
+http://listen.rockradio.com/public3/screamoemo.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Ska
+http://listen.rockradio.com/public3/ska.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Soft Rock
+http://listen.rockradio.com/public3/softrock.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Symphonic Metal
+http://listen.rockradio.com/public3/symphonicmetal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",The Best of 80´s
+http://streaming202.radionomy.com:80/Best80
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Thrash Metal
+http://listen.rockradio.com/public3/thrashmetal.pls
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Alternative
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginRockAlternative playpath=VirginRockAlternative swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Bau
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/RadioBAU playpath=RadioBAU swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Classic
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginRockClassic playpath=VirginRockClassic swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Hard Rock
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginHardRock playpath=VirginHardRock swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Music Star
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/LITFIBA playpath=LITFIBA swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Rock 70
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VIRGINROCK70 playpath=VIRGINROCK70 swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Rock 80
+rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VIRGINROCK80 playpath=VIRGINROCK80 swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
