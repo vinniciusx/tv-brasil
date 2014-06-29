@@ -9,28 +9,6 @@ rtmp://$OPT:rtmp-raw=rtmp://r.livecast.cc/rs/ playpath=live4-w04by swfUrl=http:/
 rtmp://$OPT:rtmp-raw=rtmp://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
 #EXTINF:-1 group-title="Internacional",Sport TV 2
 rtmp://$OPT:rtmp-raw=rtmp://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
-#EXTINF:-1 group-title="TV Fechada Brasil HQ",Warner Channel
-http://216.245.212.82:5000/live/warner/playlist.m3u8
-#EXTINF:-1 group-title="TV Fechada Brasil HQ",VH1
-http://201.55.123.6:5000/live/vh1/vh1.m3u8
-#EXTINF:-1 group-title="TV Fechada Brasil HQ",Universal Channel
-http://201.55.123.6:5000/live/universal/universal.m3u8
-#EXTINF:-1 group-title="TV Fechada Brasil HQ",Telecine Fun
-http://201.55.123.6:5000/live/telecinefun/telecinefun.m3u8
-#EXTINF:-1 group-title="TV Fechada Brasil HQ",SporTV
-http://201.55.123.6:5000/live/sportv/sportv.m3u8
-#EXTINF:-1 group-title="TV Fechada Brasil HQ",Sony
-http://201.55.123.6:5000/live/sony/sony.m3u8
-#EXTINF:-1 group-title="TV Fechada Brasil HQ",Megapix
-http://201.55.123.6:5000/live/megapix/megapix.m3u8
-#EXTINF:-1 group-title="TV Fechada Brasil HQ",HBO Family
-http://201.55.123.6:5000/live/hbof/hbof.m3u8
-#EXTINF:-1 group-title="TV Fechada Brasil HQ",HBO 2
-http://201.55.123.6:5000/live/hbo2/hbo2.m3u8
-#EXTINF:-1 group-title="TV Fechada Brasil HQ",FX
-http://201.55.123.6:5000/live/fx/fx.m3u8
-#EXTINF:-1 group-title="TV Fechada Brasil HQ",AXN
-http://201.55.123.6:5000/live/axn/axn.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="Internacional",ABC Sports
 rtmp://$OPT:rtmp-raw=rtmp://178.18.23.129/live playpath=abc98 swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=abc98&vw=600&vh=430 --live
 #EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Al Jazeera - Arabic
@@ -51,7 +29,7 @@ http://fw01.livem3u8.me.totiptv.com/live//7773f3cef0334a28ad248552ea63d9e7.m3u8?
 rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.com:1935/teledunet playpath=bbc_arabic swfUrl=http://www.teledunet.com/player.swf?id0=82803243052300&skin=bekle/bekle.xml&channel=bbc_arabic live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bbc_arabic&no_pub
 #EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Canal Plus HD
 rtmp://$OPT:rtmp-raw=rtmp://50.7.133.98:1935/iguide playpath=vqa3ugo16pw61r4 swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Canal+ FÃºtbol
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Canal+ Fútbol
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.38/liveedge/ playpath=ch16-i7mmbekj30j swfUrl=http://championsuefa.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://championsuefa.tv/ch.php?id=ch16-i7mmbekj30j&width=100%&height=95%
 #EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Capital TV
 rtmp://cdn-SOV-2.musicradio.com:80/LiveVideo/Capital
@@ -59,15 +37,15 @@ rtmp://cdn-SOV-2.musicradio.com:80/LiveVideo/Capital
 rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.com:1935/teledunet playpath=cctv_arabic swfUrl=http://www.teledunet.com/player.swf?id0=82825274638400&skin=bekle/bekle.xml&channel=cctv_arabic live=1 pageUrl=http://www.teledunet.com/tv_/?channel=cctv_arabic&no_pub
 #EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Chelsea TV
 rtmp://$OPT:rtmp-raw=rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://liveonlinetv247.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://liveonlinetv247.com/embed/chelseatv.php
-#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",EuroSport 2 HD InglÃªs
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",EuroSport 2 HD Inglês
 rtsp://93.120.27.78:1935/live/euro2n
-#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",EuroSport 2 InglÃªs
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",EuroSport 2 Inglês
 http://109.254.64.189:7781/udp/238.1.1.160:1234
 #EXTINF:-1 $ExtFilter="TV" group-title="Internacional",EuroSport Espanhol
 http://82.144.222.10:1234/udp/233.252.8.126:2345
 #EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Eurosport HD
 http://149.255.39.122/aasd/8814/index.m3u8
-#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",EuroSport InglÃªs
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",EuroSport Inglês
 http://109.254.64.189:7781/udp/238.1.1.159:1234
 #EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Extreme Sports
 http://auth.torrent-tv.ru/h/8/1/2/amdPTTVWZTQxbEpyQk9oOFFuNGRsbkNuUHFTa294dXZoMytEK3RQVDBvWm1hV3QzdTlnR2RHUUprSUJwSjY5cA/2
@@ -97,13 +75,13 @@ mmsh://mediatv2.topix.it/24rocktelevision66
 mmsh://mediatv2.topix.it/24hard66
 #EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Rock Television - Live
 mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Rock Television 80Â´s
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Rock Television 80´s
 mmsh://mediatv2.topix.it/248066
-#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Rock Television 90Â´s
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Rock Television 90´s
 mmsh://mediatv2.topix.it/249066
 #EXTINF:-1 $ExtFilter="TV" group-title="Internacional",RT News
 rtmp://$OPT:rtmp-raw=rtmp://fms5.visionip.tv/live/RT_3 playpath=RT_3 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.zuuk.net/el.php?ch=benficatv&width=880&height=460
-#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Sevilla FC TelevisiÃ³n
+#EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Sevilla FC Televisión
 rtmp://flash0.80137-live0.dna.qbrick.com:80/80137-live0/sevillafc
 #EXTINF:-1 $ExtFilter="TV" group-title="Internacional",Sky TG24
 rtmp://$OPT:rtmp-raw=rtmp://cp49989.live.edgefcs.net/live/ playpath=streamRM1@2564 pageUrl=http://video.sky.it/news/diretta swfUrl=http://videoplatform.sky.it/player/swf/player_live.swf live=1
@@ -115,7 +93,7 @@ rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfUr
 rtmp://80.93.53.88:1935/live/wrestling.stream
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Agrosat
 rtmp://$OPT:rtmp-raw=rtmp://srvvenus.canaldoboi.com/liveac/livestream?adbe-live-event=liveevent playpath=livestream?adbe-live-event=liveevent swfUrl=http://srvvenus.canaldoboi.com:8080/playern/player.swf live=1  pageUrl=http://srvvenus.canaldoboi.com
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",AperipÃª TV - AracajÃº
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Aperipê TV - Aracajú
 rtmp://$OPT:rtmp-raw=rtmp://fms03.ideastek.com.br/tvaperipe playpath=tvaperipe swfUrl=http://wwitv.com/player/player15.swf live=1
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Arena Corinthians - Odebrecht
 http://www.arenatimao.com/ao_vivo/video_manha.flv
@@ -133,7 +111,7 @@ rtmp://$OPT:rtmp-raw=rtmp://stream.catve.com.br/live/livestream playpath=livestr
 rtmp://$OPT:rtmp-raw=rtmp://67.213.216.200/cnt/cnt.sdp app=cnt pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cnt.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cnt&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cnt.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cnt&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://67.213.216.200/cnt playPath=cnt.sdp
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",CNT - Salvador
 rtmp://$OPT:rtmp-raw=rtmp://67.213.216.200/cntba/cntba.sdp app=cntba pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cntba.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cntba&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=cntba.sdp&type=rtmp&streamer=rtmp://67.213.216.200/cntba&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://67.213.216.200/cntba playPath=cntba.sdp
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",ConexÃ£o BR
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Conexão BR
 rtmp://$OPT:rtmp-raw=rtmp://srvvenus.canaldoboi.com/livecx playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1 pageUrl=http://live.sba1.com:8080/playern/?canal=livecx&largura=588&altura=464
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Cristo Vive
 rtmp://$OPT:rtmp-raw=rtmp://75.126.54.164/live_apostolo_476/ playpath=tvcristovive3 swfUrl=http://webcast.overseebrasil.com.br/player_swf/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://webcast.overseebrasil.com.br/player.php?p=tvcristovive3&l=400&a=300&i=true
@@ -163,15 +141,15 @@ rtmp://$OPT:rtmp-raw=rtmp://137690976.r.cdnstreaming.net/live-137690976 playpath
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master14 playpath=master14 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Record News
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/24 playpath=24 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Brasil - BrasÃ­lia
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Brasil - Brasília
 rtmp://137690976.r.cdnstreaming.net/live-137690976/rbtv.sdp
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede FamÃ­lia
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Família
 rtsp://srv3.ntelecom.com.br/redefamilia
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Gospel
 rtmp://$OPT:rtmp-raw=rtmp://media.igospel.com.br:1935/live playpath=redegospel swfUrl=http://www.redegospel.tv.br/site/library/swf/player.swf live=1 pageUrl=http://www.redegospel.tv.br/site/
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Minas
 mms://tv-coder.unifenas.br/aovivo
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Mundo Maior EspÃ­rita
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Mundo Maior Espírita
 rtmp://$OPT:rtmp-raw=rtmp://flash.asaweb.com.br/8306/ playpath=8306 swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://feal.com.br/player_tvmm.html
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rede Vida
 mms://wmedia.telium.com.br/redevida
@@ -179,7 +157,7 @@ mms://wmedia.telium.com.br/redevida
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master300 playpath=master300 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",RedeTV HD
 http://50.7.77.20:1935/record/CH103_Small/playlist.m3u8?DVR?hash$=
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",RedeTV JoÃ£o Pessoa - TV Arapuan
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",RedeTV João Pessoa - TV Arapuan
 rtmp://$OPT:rtmp-raw=rtmp://mediacp.ciclanohost.com.br:1935/8064 playpath=8064 swfUrl=http://flashplayer.estadovirtual.com.br/assets/player.swf live=1 pageUrl=http://www.tvarapuan.com.br/
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",Rit TV
 rtmp://67.228.212.5/ponto79/ongrace
@@ -197,15 +175,15 @@ rtmp://$OPT:rtmp-raw=rtmp://srv3.zoeweb.tv/z99-live playpath=stream swfUrl=http:
 rtmp://$OPT:rtmp-raw=rtmp://caikrondatacenter.com.br:1935/tvaparecida playpath=tvaparecida.stream swfUrl=http://caikronaudiencia.com.br/player/player_aparecida2.swf?Stream=tvaparecida.stream&server=rtmp://caikrondatacenter.com.br:1935/tvaparecida&largura=620&altura=348&buffer=2&nometv=&mensagem=&usuario= live=1 pageUrl=http://caikronaudiencia.com.br/player/aparecida2.php?server=rtmp://caikrondatacenter.com.br:1935/tvaparecida&stream=tvaparecida.stream&buffer=2&altura=348&largura=620
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Brasil
 rtmp://$OPT:rtmp-raw=rtmp://200.252.42.145:1935/livepkgr?adbe-live-event=tvbrinternacional playpath=tvbrinternacional?adbe-live-event=tvbrinternacional swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tvbrasil.ebc.com.br/internacional/
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Capital - GoiÃ¡s
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Capital - Goiás
 rtmp://$OPT:rtmp-raw=rtmp://fms.softhost.com.br/tcp/ playpath=victor3 swfUrl=http://www.tvcapitalgoiania.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.tvcapitalgoiania.com/
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Cidade Joinville
 mms://65.182.104.113/tvcidade
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Cidade Verde - PiauÃ­
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Cidade Verde - Piauí
 rtmp://$OPT:rtmp-raw=rtmp://67.228.212.5/ponto61/ playpath=cidadeverde swfUrl=http://www.crosshost.com.br/mtv/FLVplayer.swf live=1 pageUrl=http://www.crosshost.com.br/cidadeverde/
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Com - Porto Alegre
 rtmp://$OPT:rtmp-raw=rtmp://32747t.lp.azioncdn.net:80/2747t playpath=2747t/a/mp4:access_options/rtmp-live/tvcom.sdp swfUrl=http://videos.clicrbs.com.br/rs/tvcom/swf/ACTPlayer.swf live=1 pageUrl=http://videos.clicrbs.com.br/rs/tvcom/videonews/1443/
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Com FlorianÃ³polis - SC
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Com Florianópolis - SC
 rtmp://$OPT:rtmp-raw=rtmp://322747t.lp.azioncdn.net:1935/2747t playpath=mp4:access_options/rtmp-live/tvcom-sc.sdp swfUrl=http://videos.clicrbs.com.br/sc/tvcom/swf/ACTPlayer.swf live=1 pageUrl=http://videos.clicrbs.com.br/sc/tvcom/videonews/15681/
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Jangadeiro - Band Fortaleza
 rtmp://$OPT:rtmp-raw=rtmp://201.12.119.29/livepkgr/ playpath=tvjangadeiro3 swfUrl=http://www.tribunadoceara.com.br/tv-jangadeiro/wp-content/themes/2013_jangadeiro_tv/js/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.tribunadoceara.com.br/tv-jangadeiro/ao-vivo/
@@ -213,9 +191,9 @@ rtmp://$OPT:rtmp-raw=rtmp://201.12.119.29/livepkgr/ playpath=tvjangadeiro3 swfUr
 rtmp://$OPT:rtmp-raw=rtmp://cdn1.amsolution.net.br:1935/mntv playpath=mntv swfUrl=http://www.meionorte.com/images/player.swf live=1 pageUrl=http://www.meionorte.com/redemeionorte/
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Mundial
 rtmp://$OPT:rtmp-raw=rtmp://174.122.253.242/impd/ playpath=impd swfUrl=http://assets.gospelprime.com.br/tv/player.swf live=1 pageUrl=http://tv.gospelprime.com.br/assitir-tv-mundial-ao-vivo-igreja-mundial-do-poder-de-deus-ao-vivo-on-line/
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV PoÃ§os
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Poços
 rtmp://$OPT:rtmp-raw=rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp app=00084 pageUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00084&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit swfUrl=http://www.tvdaweb.com.br/plugin/player.swf?file=myStream.sdp&type=rtmp&streamer=rtmp://rtmp.cdn.upx.net.br/00084&autostart=true&bufferlength=1&displayclick=fullscreen&stretching=exactfit tcUrl=rtmp://rtmp.cdn.upx.net.br/00084 playP
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV SÃ©culo XXI
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Século XXI
 http://257919-lh.akamaihd.net/TVSeculo21_hdlive_250@145740?bandwidthEstimationTest=true&v=3.0.3&fp=WIN%2012,0,0,43&r=JTECX&g=KTAKFMMSIQWI
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Aberta Brasil",TV Senado
 mms://drix.senado.gov.br/tv1
@@ -435,7 +413,7 @@ rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdX
 rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/85 app=mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james pageUrl=http://75.126.217.6/videoteca/play swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 tcUrl=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james playPath=85
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",truTv
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/112_1 playpath=112_1 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",TV RÃ¡ Tim Bum
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",TV Rá Tim Bum
 http://50.7.77.20:1935/record/CH110_Small/playlist.m3u8?DVR?hash$=
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil",Universal Channel
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master20 playpath=master20 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
@@ -499,6 +477,28 @@ rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdX
 rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/live/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/foxsports2hd playpath=foxsports2hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Fox Sports HD
 http://50.7.77.20:1935/record/CH105_Small/playlist.m3u8?DVR?hash$=
+#EXTINF:-1 group-title="TV Fechada Brasil HQ",Warner Channel
+http://216.245.212.82:5000/live/warner/playlist.m3u8
+#EXTINF:-1 group-title="TV Fechada Brasil HQ",VH1
+http://201.55.123.6:5000/live/vh1/vh1.m3u8
+#EXTINF:-1 group-title="TV Fechada Brasil HQ",Universal Channel
+http://201.55.123.6:5000/live/universal/universal.m3u8
+#EXTINF:-1 group-title="TV Fechada Brasil HQ",Telecine Fun
+http://201.55.123.6:5000/live/telecinefun/telecinefun.m3u8
+#EXTINF:-1 group-title="TV Fechada Brasil HQ",SporTV
+http://201.55.123.6:5000/live/sportv/sportv.m3u8
+#EXTINF:-1 group-title="TV Fechada Brasil HQ",Sony
+http://201.55.123.6:5000/live/sony/sony.m3u8
+#EXTINF:-1 group-title="TV Fechada Brasil HQ",Megapix
+http://201.55.123.6:5000/live/megapix/megapix.m3u8
+#EXTINF:-1 group-title="TV Fechada Brasil HQ",HBO Family
+http://201.55.123.6:5000/live/hbof/hbof.m3u8
+#EXTINF:-1 group-title="TV Fechada Brasil HQ",HBO 2
+http://201.55.123.6:5000/live/hbo2/hbo2.m3u8
+#EXTINF:-1 group-title="TV Fechada Brasil HQ",FX
+http://201.55.123.6:5000/live/fx/fx.m3u8
+#EXTINF:-1 group-title="TV Fechada Brasil HQ",AXN
+http://201.55.123.6:5000/live/axn/axn.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Fox Sports HD+
 http://50.7.77.20:1935/record/CH105_Big/playlist.m3u8?DVR?hash$=
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Globo News
@@ -575,7 +575,7 @@ rtmp://$OPT:rtmp-raw=rtmp://67.228.177.198/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdX
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.150/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/master77_2 playpath=master77_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",truTv
 rtmp://$OPT:rtmp-raw=rtmp://173.193.20.136/mtv/?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/112_2 playpath=112_2 swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
-#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",TV RÃ¡ Tim Bum
+#EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",TV Rá Tim Bum
 http://50.7.77.20:1935/record/CH110_Big/playlist.m3u8?DVR?hash$=
 #EXTINF:-1 $ExtFilter="TV" group-title="TV Fechada Brasil HQ",Universal Channel
 rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/universalhd playpath=universalhd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play
@@ -593,9 +593,9 @@ rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/batman playpath=batman swfUrl=http:
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/ben10 playpath=ben10 swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/ben10.html
 #EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Bob Esponja
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/bob playpath=bob swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/bobesponja.html
-#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Caverna do DragÃ£o
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Caverna do Dragão
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/caverna playpath=caverna swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/caverna.html
-#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Coragem o CÃ£o Covarde
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Coragem o Cão Covarde
 rtmp://$OPT:rtmp-raw=rtmp://88.190.34.152/coragem/coragem/coragem playpath=coragem swfUrl=http://www.tvonlinegratis.tv/player.swf live=1  pageUrl=http://www.tvonlinegratis.tv/parcerias/coragem.php
 #EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Digimon
 rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:80/digimon/digimon/digimon playpath=digimon swfUrl=http://livestreamcast.org/swfs/player.swf live=1  pageUrl=http://livestreamcast.org/embeds.php?c=digimon&vw=468&vh=355
@@ -615,13 +615,13 @@ rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/naruto playpath=naruto swfUrl=http:
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/cdz playpath=cdz swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/cdz.html
 #EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Os Flintstones
 rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live/flinstones playpath=flinstones swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1  pageUrl=http://www.tvonlinegratis.tv/parcerias/flintstones.php
-#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Os Padrinhos MÃ¡gicos
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Os Padrinhos Mágicos
 rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/aovivo/padrinhos playpath=padrinhos swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1  pageUrl=http://www.tvonlinegratis.tv/parcerias/padrinhos-magicos.php
 #EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Os Simpsons
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/simpsons playpath=simpsons swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/simpsons.html
 #EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Pica Pau
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/picapau playpath=picapau swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/picapau.html
-#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",PokÃ©mon
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Pokémon
 rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live/pokemon playpath=pokemon swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/pokemon.php
 #EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Scooby-Doo
 rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live playpath=scoob swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/schoobydoo.php
@@ -631,7 +631,7 @@ rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live/park playpath=park swfUrl=http://www.
 rtmp://$OPT:rtmp-raw=rtmp://88.190.34.152/thecrevelandshow/thecrevelandshow playpath=thecrevelandshow swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/cleveland.php
 #EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Tom e Jerry
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/tom playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/tomejerry.html
-#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Uma FamÃ­lia da Pesada
+#EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Uma Família da Pesada
 rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/aovivo/familiadapesada playpath=familiadapesada swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/family-guy.php
 #EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",X Men
 rtmp://$OPT:rtmp-raw=rtmp://88.190.30.28/xmen/xmen playpath=xmen swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/x-men.php
@@ -639,41 +639,41 @@ rtmp://$OPT:rtmp-raw=rtmp://88.190.30.28/xmen/xmen playpath=xmen swfUrl=http://w
 rtmp://$OPT:rtmp-raw=rtmp://edge-05.livestreamcast.org:80/yugi/yugi/yugi playpath=yugi swfUrl=http://livestreamcast.org/swfs/player.swf live=1  pageUrl=http://livestreamcast.org/embeds.php?c=yugi&vw=468&vh=355
 #EXTINF:-1 $ExtFilter="VOD" group-title="Desenhos",Yu Yu Hakusho
 rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/aovivo/yuyu playpath=yuyu swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1  pageUrl=http://www.tvonlinegratis.tv/parcerias/yuyu.php
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",11 de Setembro: Vozes do Ar
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",11 de Setembro: Vozes do Ar
 http://www.youtube.com/watch?v=5WEUYEh1NHg
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",A Arte da Guerra - Sun Tzu
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",A Arte da Guerra - Sun Tzu
 http://www.youtube.com/watch?v=Pfr2_0bQJzw
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",A HistÃ³ria das Drogas
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",A História das Drogas
 http://www.youtube.com/watch?v=7Qy3tpezxao
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",A HistÃ³ria do Mundo em 2 Horas
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",A História do Mundo em 2 Horas
 http://www.youtube.com/watch?v=KHLrxTvJBXM
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Albert Einstein
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Albert Einstein
 http://www.youtube.com/watch?v=yCCAMJ96J7Y
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",AlienÃ­genas do Passado - A CriaÃ§Ã£o do Homem
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Alienígenas do Passado - A Criação do Homem
 http://www.youtube.com/watch?v=jYpr4ldSN7g
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",AlienÃ­genas do Passado - Muitos Mundos
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Alienígenas do Passado - Muitos Mundos
 http://www.youtube.com/watch?v=0QKlmVGFju0
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Apollo 13 - SituaÃ§Ã£o CrÃ­tica
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Apollo 13 - Situação Crítica
 http://www.youtube.com/watch?v=wB7HYjZcdSs
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Boeing 747-8 - Mega MÃ¡quinas
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Boeing 747-8 - Mega Máquinas
 http://www.youtube.com/watch?v=OVajzV9PcBs
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Evacuando a Terra
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Evacuando a Terra
 http://www.youtube.com/watch?v=kTFeYS5Y8H4
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Grande HistÃ³ria das Pequenas Coisas
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Grande História das Pequenas Coisas
 http://www.youtube.com/watch?v=f7NH_d2Jucg
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Holocausto - A ExecuÃ§Ã£o do Mal
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Holocausto - A Execução do Mal
 http://www.youtube.com/watch?v=xZVDa-MB-9U
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Objetivo: Bin Laden
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Objetivo: Bin Laden
 http://www.youtube.com/watch?v=NDXC2LXSdwU
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Pe Grande A Um Passo
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Pe Grande A Um Passo
 http://www.youtube.com/watch?v=nqkoAo5XnsQ
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Pearl Harbor 24 Horas Depois
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Pearl Harbor 24 Horas Depois
 http://www.youtube.com/watch?v=Cu5yqd1KlnI
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Sniper: Atiradores de Elite - EP 01
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Sniper: Atiradores de Elite - EP 01
 http://www.youtube.com/watch?v=WJwMugaeiIE
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Sniper: Atiradores de Elite - EP 02
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Sniper: Atiradores de Elite - EP 02
 http://www.youtube.com/watch?v=YQkoRihq7uo
-#EXTINF:-1 $ExtFilter="VOD" group-title="DocumentÃ¡rios",Sniper: Atiradores de Elite - EP 03
+#EXTINF:-1 $ExtFilter="VOD" group-title="Documentários",Sniper: Atiradores de Elite - EP 03
 http://www.youtube.com/watch?v=CD0xGClu2Vk
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",13 - O Jogador
 http://www.youtube.com/watch?v=DF4mRNnIhJk
@@ -683,9 +683,9 @@ http://www.youtube.com/watch?v=zksSDHh7bpc
 http://www.youtube.com/watch?v=HtpUTnuhQvw
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",A Lista
 rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/vod/?_fcs_vhost=content playpath=mp4:A_Lista.mp4 swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://www.mastertv.biz/A_Lista.php
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",A MÃ¡quina do Tempo
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",A Máquina do Tempo
 http://vk.com/video164365737_163725386
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",A OcasiÃ£o Faz o LadrÃ£o
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",A Ocasião Faz o Ladrão
 http://vk.com/video203968065_165382218
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Agentes 000
 http://www.youtube.com/watch?v=XiZjDTMlcx8
@@ -697,27 +697,27 @@ http://www.youtube.com/watch?v=ui6b144MN0k
 http://www.youtube.com/watch?v=npurCUyRr4E
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Area 51
 http://www.youtube.com/watch?v=kevC5enV0Os
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Arrebentando na PrisÃ£o
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Arrebentando na Prisão
 http://www.youtube.com/watch?v=5aAwPyqhgyE
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",As 7 Regras do Amor
 http://www.youtube.com/watch?v=m2X_MlYgXr4
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",As Branquelas
 http://vk.com/video213595664_165386598
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",CaÃ§a as Bruxas
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Caça as Bruxas
 http://www.youtube.com/watch?v=IrBCzfRM3kM
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Carrie: A Estranha
 http://www.youtube.com/watch?v=QJWnbR7pmiI
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Cilada.Com
 http://www.youtube.com/watch?v=X1iOxGRLz-E
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Cine ComÃ©dia
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Cine Comédia
 rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live playpath=comedia swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/cine-comedia.php
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Cine Terror
 rtmp://$OPT:rtmp-raw=rtmp://85.12.5.8/live playpath=terror swfUrl=http://www.tvonlinegratis.tv/protegido.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/cine-terror.php
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Codigo de Conduta 2009
 http://www.youtube.com/watch?v=GfBPc2h6caQ
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",CoincidÃªncias do Amor
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Coincidências do Amor
 http://vk.com/video164365737_162977515
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Conan o BÃ¡rbaro
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Conan o Bárbaro
 http://www.youtube.com/watch?v=mALF6UmbDTg
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Deja Vu
 http://www.youtube.com/watch?v=qyYghESR1OQ
@@ -731,25 +731,25 @@ http://www.youtube.com/watch?v=vOowVz2VWnY
 http://www.youtube.com/watch?v=0QzOe8piXgg
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Efeito Borboleta
 http://vk.com/video116076584_159015071
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Encontro Ã s Escuras
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Encontro às Escuras
 http://www.youtube.com/watch?v=8NIvdITPZiA
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Eu Odeio o Dia dos Namorados
 http://www.youtube.com/watch?v=UH1jGOGoDRo
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Evocando EspÃ­ritos
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Evocando Espíritos
 http://www.youtube.com/watch?v=RBdlF8WuLRk
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Filmes 24 Horas
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/filmes playpath=filmes swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/filmes.html
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Fuga ImplacÃ¡vel
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Fuga Implacável
 http://vk.com/video189165292_164118429
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Gamer
 http://vk.com/video164365737_162344239
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Gigantes de AÃ§o
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Gigantes de Aço
 http://www.youtube.com/watch?v=vq9BeF58K7w
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Guerra Mundial Z
 http://www.youtube.com/watch?v=nio9S67LPcQ
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Homem de Ferro 3
 rtmp://$OPT:rtmp-raw=rtmp://50.22.50.138/vod/?_fcs_vhost=content playpath=mp4:hf3.mp4 swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://www.mastertv.biz/hf3.php
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",IrmÃ£s e IrmÃ£os
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Irmãs e Irmãos
 http://fs003.dropvideo.com/v/e3c2aaa2be19eb224a592b2413bea4b8.mp4?st=YNTeqq_cW81EbVsxVx6kQA
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",La Bamba (1987)
 http://www.youtube.com/watch?v=WN3Q8-p9te8
@@ -769,13 +769,13 @@ rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/demanda/?_fcs_vhost=mtvon playpath=mp4:
 http://www.youtube.com/watch?v=LUIbiICi8K4
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Atirador - Apontando Para a Morte
 http://www.youtube.com/watch?v=c28TQ0FSzOU
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O CaÃ§ador de DragÃµes
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Caçador de Dragões
 http://www.youtube.com/watch?v=0BFoL9k7B4U
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Corvo
 http://www.youtube.com/watch?v=kUBLanxkGd8
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Espetacular Homem Aranha
 http://www.youtube.com/watch?v=IKf7ofhhGUY
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Garoto do Futuro - "RarÃ­ssimo"
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Garoto do Futuro - "Raríssimo"
 http://www.youtube.com/watch?v=9VKwSV-d3mM
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",O Golpista do Ano
 http://www.youtube.com/watch?v=4W6uutArdT8
@@ -791,7 +791,7 @@ http://www.youtube.com/watch?v=HEr0NosQEns
 http://vk.com/video229769079_166542556
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Parentes Perfeitos
 http://www.youtube.com/watch?v=enQOGmlKtZc
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Putz! a Coisa TÃ¡ Feia
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Putz! a Coisa Tá Feia
 http://www.youtube.com/watch?v=1aYVmTL_lh8
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Rock Star
 http://www.youtube.com/watch?v=oSSdMuoZ5fI
@@ -799,7 +799,7 @@ http://www.youtube.com/watch?v=oSSdMuoZ5fI
 http://vk.com/video203968065_165439480
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Thor O Mundo Sombrio
 http://www.youtube.com/watch?v=xEdn7Vfqrqw
-#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Todo Poderoso: O Filme - 100 Anos de TimÃ£o
+#EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Todo Poderoso: O Filme - 100 Anos de Timão
 http://www.youtube.com/watch?v=cdiJkGE0lBY
 #EXTINF:-1 $ExtFilter="VOD" group-title="Filmes",Um Crime de Mestre
 http://www.youtube.com/watch?v=gpBUbDpnWnc
@@ -855,7 +855,7 @@ rtmp://$OPT:rtmp-raw=rtmp://76.73.44.202/ctv/two playpath=two swfUrl=http://www.
 rtmp://$OPT:rtmp-raw=rtmp://88.190.34.152/drhouse/drhouse playpath=drhouse swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/drhouse.php
 #EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Drake e Josh
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/drake playpath=drake swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/drakejosh.html
-#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Eu a Patroa e as CrianÃ§as
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Eu a Patroa e as Crianças
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.202/ctv/patroa playpath=patroa swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/patroa.html
 #EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Friends
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/friends playpath=friends swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/friends.html
@@ -889,191 +889,191 @@ rtmp://$OPT:rtmp-raw=rtmp://76.73.44.234/ctv/big playpath=big swfUrl=http://www.
 rtmp://$OPT:rtmp-raw=rtmp://88.190.34.152/twd/twd playpath=twd swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/twd.php
 #EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Todo Mundo Odeia o Chris
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/cris playpath=cris swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/cris.html
-#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Um Maluco no PedaÃ§o
+#EXTINF:-1 $ExtFilter="VOD" group-title="Seriados",Um Maluco no Pedaço
 rtmp://$OPT:rtmp-raw=rtmp://76.73.44.194/ctv/maluconopedaco playpath=maluconopedaco swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/maluconopedaco.html
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",3 Doors Down - Greatest Hits
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",3 Doors Down - Greatest Hits
 http://www.youtube.com/watch?v=cZZgD91w-Wg
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",AC/DC - Greatest Hits 2011
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",AC/DC - Greatest Hits 2011
 http://www.youtube.com/watch?v=La_aW-c14P4
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Audioslave - Greatest Hits
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Audioslave - Greatest Hits
 http://www.youtube.com/watch?v=SAZXWzCcOg4
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Creed - Greatest Hits
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Creed - Greatest Hits
 http://www.youtube.com/watch?v=KlzJlDy8CB4
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Creed - My Own Prison
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Creed - My Own Prison
 http://www.youtube.com/watch?v=LAEw8UaUfSg
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Def Leppard - Vault Greatest Hits
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Def Leppard - Vault Greatest Hits
 http://www.youtube.com/watch?v=aeeILhuKEXk
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Guns N' Roses - Greatest Hits
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Guns N' Roses - Greatest Hits
 http://www.youtube.com/watch?v=6ZgMBgVKAjE
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Iron Maiden - The Number of the Beast
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Iron Maiden - The Number of the Beast
 http://www.youtube.com/watch?v=1YjOQy0LydY
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",LegiÃ£o Urbana - Dois
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Legião Urbana - Dois
 http://www.youtube.com/watch?v=0qnGv4IW2Ac
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",LegiÃ£o Urbana - Que PaÃ­s Ã© Este
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Legião Urbana - Que País é Este
 http://www.youtube.com/watch?v=8R6LIXrVj4A
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Linkin Park - Greatest Hits 2000-2012
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Linkin Park - Greatest Hits 2000-2012
 http://www.youtube.com/watch?v=NX0gyEDrAfQ
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Manowar - Warriors Of The World
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Manowar - Warriors Of The World
 http://www.youtube.com/watch?v=A0xzOL58fuk
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Metallica - Black Album
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Metallica - Black Album
 http://www.youtube.com/watch?v=DqDeH3hwxfw
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Nirvana - Nevermind
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Nirvana - Nevermind
 http://www.youtube.com/watch?v=50Y8UBKI09k
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Oasis - Greatest Hits
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Oasis - Greatest Hits
 http://www.youtube.com/watch?v=09f93LdQ36Q
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Pearl Jam - Lightning Bolt
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Pearl Jam - Lightning Bolt
 http://www.youtube.com/watch?v=b2Tt_QT7Z8Q
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Pink Floyd - Greatest Hits 1
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Pink Floyd - Greatest Hits 1
 http://www.youtube.com/watch?v=MmMSnbZVkEQ
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="CDÂ´s Completos",Scorpions - Greatest Hits
+#EXTINF:-1 $ExtFilter="Áudio" group-title="CD´s Completos",Scorpions - Greatest Hits
 http://www.youtube.com/watch?v=pwskwBsJlQw
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",60s Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",60s Rock
 http://listen.rockradio.com/public3/60srock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",80s Alternative
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",80s Alternative
 http://listen.rockradio.com/public3/alternative80s.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",80s Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",80s Rock
 http://listen.rockradio.com/public3/80srock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",89 Radio Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",89 Radio Rock
 http://50-7-66-170.webnow.net.br:80/radiorock.aac
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",90s Alternative
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",90s Alternative
 http://listen.rockradio.com/public3/alternative90s.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",90s Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",90s Rock
 http://listen.rockradio.com/public3/90srock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",98 FM Curitiba - Ã‰ Tudo de Bom!
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",98 FM Curitiba - É Tudo de Bom!
 http://174-123-32-173.webnow.net.br:80/98fm.mp3
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",ABC Lounge
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",ABC Lounge
 http://listen.radionomy.com/abc-lounge.m3u
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",peg",Antena 1 FM 94,7
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",peg",Antena 1 FM 94,7
 http://s9.mediastreaming.it:7050
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Band News FM
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Band News FM
 rtmp://evp.mm.uol.com.br/bnewsfm_sp/_definst_/bnewsfm_sp
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Beatles Tribute
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Beatles Tribute
 http://listen.rockradio.com/public3/beatlestribute.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Black Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Black Metal
 http://listen.rockradio.com/public3/blackmetal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Blues Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Blues Rock
 http://listen.rockradio.com/public3/bluesrock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Bossa Jazz Brasil
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Bossa Jazz Brasil
 http://streaming17.brlogic.com:8238/live
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Brasil Radio
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Brasil Radio
 http://listen.radionomy.com/75brasilradio.m3u
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Brasil Sertanejo
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Brasil Sertanejo
 http://listen.radionomy.com/brasil-sertanejo.m3u
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Cafe 80Â´s
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Cafe 80´s
 http://streaming202.radionomy.com:80/cafe80s
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Classic Hard Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Classic Hard Rock
 http://listen.rockradio.com/public3/classichardrock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Classic Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Classic Metal
 http://listen.rockradio.com/public3/classicmetal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Classic Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Classic Rock
 http://listen.rockradio.com/public3/classicrock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Classic Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Classic Rock
 http://streaming208.radionomy.com:80/ROCK-Classic
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Dance - Anos 90
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Dance - Anos 90
 http://streaming202.radionomy.com:80/Dance90
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Death Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Death Metal
 http://listen.rockradio.com/public3/deathmetal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Deathcore
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Deathcore
 http://listen.rockradio.com/public3/deathcore.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Festa
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Festa
 http://141.0.169.245:80/partyfm-high
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Grunge
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Grunge
 http://listen.rockradio.com/public3/grunge.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Hair Bands
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Hair Bands
 http://listen.rockradio.com/public3/hairbands.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Hard Core
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Hard Core
 http://listen.rockradio.com/public3/hardcore.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Hard Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Hard Rock
 http://listen.rockradio.com/public3/hardrock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Harder Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Harder Rock
 http://listen.rockradio.com/public3/harderrock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Heavy Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Heavy Metal
 http://listen.rockradio.com/public3/heavymetal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Hot Hits
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Hot Hits
 http://streaming207.radionomy.com:80/HIT-S-MY-MUSIC
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Indie Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Indie Rock
 http://listen.rockradio.com/public3/indierock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Industrial
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Industrial
 http://listen.rockradio.com/public3/industrial.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Jam Bands
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Jam Bands
 http://listen.rockradio.com/public3/jambands.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Jovem Pan FM 100,9
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Jovem Pan FM 100,9
 http://rtmp.35c4.cdn.upx.net.br:1935/35c4/myStream.sdp/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Jovem Pan SP
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Jovem Pan SP
 mms://200.147.1.208/jovempan_cameras
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Kiss FM
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Kiss FM
 http://8333.live.streamtheworld.com/SAOPAULO1021AAC
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Kiss FM 102,1
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Kiss FM 102,1
 http://9303.live.streamtheworld.com:3690/SAOPAULO1021_SC
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Melodic Death Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Melodic Death Metal
 http://listen.rockradio.com/public3/melodicdeathmetal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Metal
 http://listen.rockradio.com/public3/metal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Metalcore
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Metalcore
 http://listen.rockradio.com/public3/metalcore.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Modern Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Modern Rock
 http://listen.rockradio.com/public3/modernrock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Never Stop Dancing
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Never Stop Dancing
 http://streaming205.radionomy.com:80/Electronic-Global-Radio
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Nu Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Nu Metal
 http://listen.rockradio.com/public3/numetal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Pop Punk
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Pop Punk
 http://listen.rockradio.com/public3/poppunk.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Pop Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Pop Rock
 http://listen.rockradio.com/public3/poprock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Pop Rock - Hits
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Pop Rock - Hits
 http://ice.abradio.cz:80/hitpoprock64.aac
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Power Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Power Metal
 http://listen.rockradio.com/public3/powermetal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Power Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Power Metal
 http://streaming208.radionomy.com/PowerMetalcl
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Progressive Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Progressive Metal
 http://listen.rockradio.com/public3/progressivemetal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Progressive Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Progressive Rock
 http://listen.rockradio.com/public3/progressiverock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Punk Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Punk Rock
 http://listen.rockradio.com/public3/punkrock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Radio - I Love Dance FM
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Radio - I Love Dance FM
 http://80.237.157.64:80/iloveradio2.mp3
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Radio Capital SP
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Radio Capital SP
 http://173.192.47.126:80/capital
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Radio Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Radio Metal
 http://streaming207.radionomy.com:80/MetalHeart
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Radio Mozart
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Radio Mozart
 http://listen.radionomy.com/radio-mozart.m3u
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Rap Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Rap Metal
 http://listen.rockradio.com/public3/rapmetal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Reggae 24 Horas
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Reggae 24 Horas
 http://67.159.12.5:80/tuner24_reggae_hi
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Rock Ballads
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Rock Ballads
 http://listen.rockradio.com/public3/rockballads.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Rock ClÃ¡ssico
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Rock Clássico
 http://play.uturnradio.com:80/classic_rock_64
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",RockÂ´n Roll - Anos 80 e 90
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Rock´n Roll - Anos 80 e 90
 http://zzz.ee:8008/NetRock101
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Screamo-Emo
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Screamo-Emo
 http://listen.rockradio.com/public3/screamoemo.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Ska
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Ska
 http://listen.rockradio.com/public3/ska.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Soft Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Soft Rock
 http://listen.rockradio.com/public3/softrock.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Symphonic Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Symphonic Metal
 http://listen.rockradio.com/public3/symphonicmetal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",The Best of 80Â´s
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",The Best of 80´s
 http://streaming202.radionomy.com:80/Best80
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Thrash Metal
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Thrash Metal
 http://listen.rockradio.com/public3/thrashmetal.pls
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Virgin Radio Alternative
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Alternative
 rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginRockAlternative playpath=VirginRockAlternative swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Virgin Radio Bau
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Bau
 rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/RadioBAU playpath=RadioBAU swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Virgin Radio Classic
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Classic
 rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginRockClassic playpath=VirginRockClassic swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Virgin Radio Hard Rock
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Hard Rock
 rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VirginHardRock playpath=VirginHardRock swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Virgin Radio Music Star
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Music Star
 rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/LITFIBA playpath=LITFIBA swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Virgin Radio Rock 70
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Rock 70
 rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VIRGINROCK70 playpath=VIRGINROCK70 swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
-#EXTINF:-1 $ExtFilter="Ãudio" group-title="RÃ¡dios Online",Virgin Radio Rock 80
+#EXTINF:-1 $ExtFilter="Áudio" group-title="Rádios Online",Virgin Radio Rock 80
 rtmp://$OPT:rtmp-raw=rtmp://fms.105.net:1935/live/VIRGINROCK80 playpath=VIRGINROCK80 swfUrl=http://www.virginradioitaly.it/swf/corePlayerStreaming.swf/[[DYNAMIC]]/3 live=1
